@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Singup</title>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='indexcss.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+
+    </head>
+    <body>
+        <header class="main-header">
+            <div class="header-nav">
+                <a href="#" class="logo link">YOGA</a>
+                <nav class="main-nav">
+                    <ul class="nav-list">
+                      <li class="nav-item">
+                          <a href="/home" class="nav-link link">Home</a>
+                      </li>
+                      <li class="nav-item">
+                          <a href="/reminders" class="nav-link link">Reminders</a>
+                      </li>
+                      
+                      <li class="nav-item">
+                          <a href="/poses" class="nav-link link">Poses</a>
+                      </li>
+                      <li class="nav-item">
+                          <a href="/suggestedroutines" class="nav-link link">RoutinesToDo</a>
+                      </li>
+                      <li class="nav-item">
+                          <a href="/recomendations" class="nav-link link">ML Recomendations</a>
+                      </li>
+                      <!-- <li class="nav-item">
+                          <a href="#" class="nav-link link">Blogs</a>
+                      </li> -->
+                      <li class="nav-item">
+                          <a href="/triedbyyou" class="nav-link link">Yours Stuff</a>
+                      </li>
+                      <li class="nav-item">
+                          <a href="/logout" class="nav-link link">logout</i></a>
+                      </li>
+                    </ul>
+                </nav>
+            </div>
+            <div>
+                
+            <form method="post">
+                <h1> Type your health problems</h1>
+                <label for="input1">problem 1:</label>
+                <input type="text" id="input1" name="input1"><br><br>
+                <label for="input2">problem 2:</label>
+                <input type="text" id="input2" name="input2"><br><br>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+
+        </header>
+    </body>
+</html>

@@ -1,0 +1,241 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+	<title>Live Camera Stream</title>
+</head>
+<body>
+	<h1>Live Camera Stream</h1>
+
+ <div style="padding-left: 770px;">
+	<img src="{{ url_for('video_feed') }}" width="640" height="650">
+</div>
+</body>
+</html> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='indexcss.css') }}">
+    <title>Yoga Website</title>
+</head>
+
+<body>
+    <header class="main-header">
+        <div class="header-nav">
+            <a href="#" class="logo link">YOGA</a>
+            <nav class="main-nav">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="/home" class="nav-link link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/reminders" class="nav-link link">Reminders</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/poses" class="nav-link link">Poses</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/suggestedroutines" class="nav-link link">RoutinesToDo</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/recomendations" class="nav-link link">ML Recomendations</a>
+                    </li>
+                    <!-- <li class="nav-item">
+                        <a href="#" class="nav-link link">Blogs</a>
+                    </li> -->
+                    <li class="nav-item">
+                        <a href="/triedbyyou" class="nav-link link">Yours Stuff</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/logout" class="nav-link link">logout</i></a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div class="hero-content">
+            <h1 class="main-heading">"Yoga is the journey <span class="main-heading-focus">of <br> The Self, <br> To The
+                    Self, <br> Through The Self”</span> </h1>
+            <p class="sub-heading">Bhagavad Gita</p>
+            <a href="/select" class="hero-cta link">Free Trial</a>
+        </div>
+    </header>
+
+    <main class="main-container">
+        <div class="card-container">
+            <p class="main-card-title">It Really Helps</p>
+            <div class="card-content">
+                <div class="card">
+                    <div class="card-img-container">
+                        <img src="static/yoga-pose-1.png" alt="" class="card-img">
+                        <div class="card-info">
+                            <ul class="card-info-list">
+                                <p>Natarajasana, Lord of the Dance Pose or Dancer Pose is a standing,
+                                     balancing, back-bending asana in modern yoga as exercise.
+                                      It is derived from a pose in the classical Indian dance form Bharatnatyam,
+                                       which is depicted in temple statues in the Nataraja Temple, Chidambaram</p>
+                            </ul>
+                        </div>
+                    </div>
+                    <p class="card-title">NATRAJASANA <span class="card-span">(Lord of The Dance Pose)</span></p>
+                </div>
+
+                <div class="card">
+                    <div class="card-img-container">
+                        <img src="static/yoga-pose-2.png" alt="" class="card-img">
+                        <div class="card-info">
+                            <ul class="card-info-list">
+                                <p>Those who suffer from excessive problems of spinal cord and disc should not
+                                perform this pose. If you suffer from severe stomach related problems then
+                                don't perform this pose. Consult a doctor before beginning an exercise regime</p>
+                            </ul>
+                        </div>
+                    </div>
+                    <p class="card-title">DHANURASANA <span class="card-span">(Bow Pose)</span></p>
+                </div>
+                <div class="card">
+                    <div class="card-img-container">
+                        <img src="static/yoga-pose-3.png" alt="" class="card-img">
+                        <div class="card-info">
+                            <ul class="card-info-list">
+                            <p>Bhujangasana or Cobra Pose is a reclining back-bending asana in hatha yoga and modern
+                             yoga as exercise. It is commonly performed in a cycle of asanas in Surya Namaskar, Salute to the Sun,
+                            as an alternative to Urdhva Mukha Svanasana, Upward Dog Pose. The Yin Yoga form is Sphinx Pose</p>
+                            </ul>
+                        </div>
+                    </div>
+                    <p class="card-title">BHUJANGASANA <span class="card-span">(Cobra Pose)</span></p>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div>
+            {% if reminder %}
+        <div id="reminder" style="display:none;">
+            <h2>Reminder</h2>
+            <p id="reminder-text"></p>
+        </div>
+        
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                var title = '{{ reminder[0].title}}';
+                var description = '{{ reminder[0].description }}';
+                var date = '{{ reminder[0].date }}';
+                var time = '{{ reminder[0].time }}';
+                
+                var reminderText = title + ' - ' + description + ' - ' + date + ' - ' + time;
+                
+                alert(reminderText);
+            });
+        </script>
+    {% endif %}
+        </div>
+        
+    </main>
+
+    <footer class="footer">
+        <div class="news-letter">
+        </div>
+        <div class="footer-border"></div>
+        <div class="footer-content-container">
+            <div class="footer-content">
+                <a href="#" class="link footer-logo">yoga</a>
+                <p class="company-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem obcaecati, aut ab id
+                    nulla exercitationem vero deleniti molestiae totam maxime?</p>
+                <table class="footer-contact-info">
+                    <tr>
+                        <td><i class="fas fa-envelope"></i></td>
+                        <td>someone@gmail.com</td>
+                    </tr>
+                    <tr>
+                        <td><i class="fas fa-phone-alt"></i></td>
+                        <td>555-5555-555 <br> 888-8888-888</td>
+                    </tr>
+                    <tr>
+                        <td><i class="fas fa-map-marker-alt"></i></td>
+                        <td>123- Street, <br> Some Area in earth <br> New Delhi, India</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="footer-nav-container">
+                <p class="footer-title">Useful Links</p>
+                <nav class="footer-nav">
+                    <ul class="footer-nav-list">
+                        <li class="footer-nav-item">
+                            <a href="#" class="footer-nav-link link">Home</a>
+                        </li>
+                        <li class="footer-nav-item">
+                            <a href="#" class="footer-nav-link link">Classes</a>
+                        </li>
+                        <li class="footer-nav-item">
+                            <a href="#" class="footer-nav-link link">About us</a>
+                        </li>
+                        <li class="footer-nav-item">
+                            <a href="#" class="footer-nav-link link">Contact us</a>
+                        </li>
+                        <li class="footer-nav-item">
+                            <a href="#" class="footer-nav-link link">Blogs</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="latest-post-container">
+                <p class="footer-title">Latest Post</p>
+                <a class="latest-post link" href="#">
+                    <div class="latest-post-img-container">
+                        <img src="img/banner-img-1.jpg" alt="" class="latest-post-img">
+                    </div>
+                    <div class="latest-post-content">
+                        <p class="latest-post-title">Latest post one.</p>
+                        <p class="latest-post-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
+                            pariatur alias voluptatibus aliquid dolores veniam nam saepe tenetur rerum necessitatibus?
+                        </p>
+                    </div>
+                </a>
+                <a class="latest-post link" href="#">
+                    <div class="latest-post-img-container">
+                        <img src="img/banner-img-2.jpg" alt="" class="latest-post-img">
+                    </div>
+                    <div class="latest-post-content">
+                        <p class="latest-post-title">Latest post two.</p>
+                        <p class="latest-post-desc">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
+                            pariatur alias voluptatibus aliquid dolores veniam nam saepe tenetur rerum necessitatibus?
+                        </p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="social-nav-container">
+            <ul class="social-nav-list">
+                <li class="social-nav-item">
+                    <a href="#" class="link social-link">
+                        <i class="fab fa-facebook-square"></i>
+                    </a>
+                </li>
+                <li class="social-nav-item">
+                    <a href="#" class="link social-link">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                </li>
+                <li class="social-nav-item">
+                    <a href="#" class="link social-link">
+                        <i class="fab fa-twitter-square"></i>
+                    </a>
+                </li>
+                <li class="social-nav-item">
+                    <a href="#" class="link social-link">
+                        <i class="fab fa-youtube"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="copyright">
+            <p class="copy-text">Copyright &copy;2020 Non Degree Programmer All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    #video-container {
+  width: 800px;
+  height: 600px;
+}
+.container {
+  width: 100%;
+  display: flex;
+}
+.right {
+  display: inline-block;
+  width: 50%;
+  box-sizing: border-box;
+  padding: 10px;
+  position: fixed;
+  right: 0;
+  text-align: center;
+
+  /* position: fixed; */
+}
+.border{
+    display: flex;
+    width: 100%;
+    border: 1px solid black;
+    flex-direction: row-reverse;
+    align-items: center;
+    border-radius: 20px;
+}
+.left {
+    display: inline-block;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+    display: flex;
+    flex-direction: bottom;
+    overflow-y: scroll;
+    flex-wrap: wrap;
+    height: 85vh;
+    align-items: center;
+}
+.iteml{
+    width: 40%;
+    padding-top: middle;
+  
+}
+.itemr{
+    width: 60%;
+    /* border:1px solid black; */
+    padding:20px;
+}
+
+</style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='freetrailcss.css') }}">
+    <title>Document</title>
+</head>
+<body >
+    <header class="main-header">
+        <div class="header-nav">
+            <a href="#" class="logo link">YOGA</a>
+            <nav class="main-nav">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="/home" class="nav-link link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/reminders" class="nav-link link">Reminders</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a href="/poses" class="nav-link link">Poses</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/suggestedroutines" class="nav-link link">RoutinesToDo</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/recomendations" class="nav-link link">ML Recomendations</a>
+                    </li>
+                    <!-- <li class="nav-item">
+                        <a href="#" class="nav-link link">Blogs</a>
+                    </li> -->
+                    <li class="nav-item">
+                        <a href="/triedbyyou" class="nav-link link">Yours Stuff</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/logout" class="nav-link link">logout</i></a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <h1 style="text-align: center;">{{name}}</h1>
+    <div class="container">
+        <div class="left">
+            {% for url in url_list %}
+            <h2> {{url['pose_name']}}</h2>
+            <br><br><br><br>
+            <div class="border">
+                <div class="iteml">
+                    <button id="url['pose_name']" onclick="speak('{{url.Description}}')"><a href="#" class="image-link" data-image="{{url['pose_name']+'.jpg'}}">
+                        <img style="width:250px;height: 250px;" src="{{ url_for('static', filename='yoga_poses/'+url['pose_name'] + '.jpg') }}" alt="{{ url['pose_name']}}">
+                    </a></button>
+                </div>
+                <div class="itemr">
+                    <b>sanskrit_name :</b> {{url['sanskrit_name']}}<br>
+                    <b>category_name:</b>{{url['Category']}}<br>
+                    <b>Difficulty_level:</b>{{url['Difficulty']}}<br>
+                    <b>pose_description:</b>{{url['Description']}}<br>
+                    <b>pose_benefits:</b>{{url['Benefits']}}<br>
+                </div>
+            </div>
+            <!-- <button onclick="speak('{{url.pose_description}}')">Click me!</button> -->
+            <script>
+                var synth = window.speechSynthesis;
+                var utterance;
+              
+                function speak(description) {
+                  if (synth.speaking) {
+                    synth.cancel();
+                  }
+                  utterance = new SpeechSynthesisUtterance(description);
+                  utterance.rate = 1;
+                  synth.speak(utterance);
+                }
+              
+                function stopSpeaking() {
+                  synth.cancel();
+                }
+              
+                window.addEventListener('beforeunload', function() {
+                  stopSpeaking();
+                });
+              
+                var buttonsx = document.querySelectorAll('id');
+                for (var i = 0; i < buttonsx.length; i++) {
+                  buttonsx[i].addEventListener('click', function() {
+                    stopSpeaking();
+                  });
+                }
+              
+                window.addEventListener('unload', function() {
+                  stopSpeaking();
+                });
+              </script>
+              
+
+            {% endfor %}
+        </div>
+        <div class="right">
+            <button style="color:white;background-color: black;padding: 15px;" id = "start-button">Start/Restart</button>
+            <div   id="video-container"></div>
+        </div>
+    </div>
+</body>
+
+
+<script>
+    const delay = 40000; // time delay in milliseconds
+    let buttons = [];
+  
+    function clickButton(index) {
+      if (buttons.length === 0 || index >= buttons.length) {
+        return;
+      }
+      const anchor = buttons[index].querySelector('.image-link');
+      if (anchor) {
+        anchor.click();
+      }
+      if (index < buttons.length - 1) {
+        setTimeout(() => clickButton(index + 1), delay);
+      }
+    }
+  
+    document.addEventListener('DOMContentLoaded', () => {
+      // Initialize the buttons array and add event listeners
+      buttons = document.querySelectorAll('button');
+      buttons.forEach((button) => {
+        button.addEventListener('click', (event) => {
+          event.preventDefault();
+          const anchor = button.querySelector('.image-link');
+          const href = anchor ? anchor.dataset.href : null;
+          if (href) {
+            console.log('Clicked on:', href);
+            // Do something with the href value here
+          }
+        });
+      });
+  
+      // Add event listener for the start button
+      document.getElementById('start-button').addEventListener('click', () => {
+        clickButton(0);
+      });
+  
+      // Add event listener for the submit button
+      document.getElementById('submit-button').addEventListener('click', () => {
+        // Do something when the submit button is clicked
+        console.log('Submit button clicked!');
+      });
+    });
+  </script>
+<script>
+    // get all anchor tags with class "image-link"
+    const imageLinks = document.querySelectorAll('.image-link');
+
+    // attach a click event listener to each anchor tag
+    imageLinks.forEach(link => {
+        link.addEventListener('click', (event) => {
+            // prevent the default behavior of navigating to a new page
+            event.preventDefault();
+
+            // get the image filename from the "data-image" attribute
+            const imageFilename = link.dataset.image;
+
+            // create a new iframe element with the video feed URL and image filename
+            const iframe = document.createElement('iframe');
+            iframe.src = '/video_feedx?image_path=' + imageFilename;
+            iframe.frameBorder = 0;
+            iframe.allowFullscreen = false;
+            iframe.width = '1163px';
+            iframe.height = '1000px';
+            iframe.style.transform = 'scale(0.6)';
+            iframe.style.transformOrigin = '0 0';
+            // remove any existing iframes from the video container
+            const videoContainer = document.getElementById('video-container');
+            videoContainer.innerHTML = '';
+
+            // append the new iframe to the video container
+            videoContainer.appendChild(iframe);
+        });
+    });
+</script>
+
+</html>

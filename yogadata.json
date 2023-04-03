@@ -1,0 +1,1362 @@
+{
+    "Standing":[
+        {
+            "pose_name":"Big Toe",
+            "sanskrit_name":"Padangushthasana",
+            "Category":"Standing / Forward Bend",
+            "Difficulty" :"Intermediate",
+            "Description":"Begin by standing with your feet hip width apart. Hinge forward from your hips with a long, flat back and fold your torso over your thighs. Try to connect your chest to your thighs by hollowing out your lower belly. Send your sit bones high, draw your knee caps up and relax your hamstrings. Slide your index and middle fingers of each hand between the big toes and the second toes. Then curl those fingers under and grip the big toes firmly, wrapping your thumbs around the other two fingers to secure the wrap. Press your toes down against your fingers.",
+            "Benefits":"Lengthens and strengthens the back of the legs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/forward_bend_big_toe.png"
+
+        },
+        {
+            "pose_name":"Bird of Paradise",
+            "sanskrit_name":"Svarga Dvijasana",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Advanced",
+            "Description":"From Bound Revolved Chair, one foot stays rooted into the earth and straightens while the opposite leg comes up with a bent knee. Once you are standing upright extend the leg toward the sky. The ribcage is lifted and the heart is open in the full expression of the pose. The gaze is forward.",
+            "Benefits":"Increases the flexibility of the spine and back and stretches the shoulders. Strengthens the legs. Increases flexibility of the hip and knee joints. Improves balance. Opens the groin. Stretches the hamstrings.",
+            "url_img":"https://pocketyoga.com/assets/images/full/chair_twist_bind_up_L.png"
+
+        },
+        {
+            "pose_name":"Revolved Bird of Paradise",
+            "sanskrit_name":"Parivritta Svarga Dvijasana",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Advanced",
+            "Description":"From Revolved Chair pose, the lower arm reaches back around the legs as the upper arm wraps around the back and the fingers of the respective hands eventually meet and interlace. One foot stays rooted into the earth and straightens while the opposite leg comes up with a bent knee. Once you are standing upright extend the leg toward the sky. The ribcage is lifted and the heart is open in the full expression of the pose. The gaze is forward.",
+            "Benefits":"Increases the flexibility of the spine and back and stretches the shoulders. Strengthens the legs. Increases flexibility of the hip and knee joints. Improves balance. Opens the groin. Stretches the hamstrings.",
+            "url_img":"https://pocketyoga.com/assets/images/full/bird_of_paradise_revolved_R.png"
+
+        },
+        {
+            "pose_name":"Chair",
+            "sanskrit_name":"Utkatasana",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Beginner",
+            "Description":"From a standing position, the feet are together and rooted into the earth with toes actively lifted. The knees are bent and the weight of the body is on the heels of the feet. The pelvis is tucked in and the ribcage is lifted. The neck is a natural extension of the spine. The arms are lifted up toward the sky with the elbows straight and the biceps by the ears. The hands can be together or separated and facing each other with the fingers spread wide. The gaze is forward.",
+            "Benefits":"Strengthens the ankles, thighs, calves, and spine. Stretches shoulders and chest. Stimulates the abdominal organs, diaphragm, and heart. Reduces flat feet. Energizes the entire body.",
+            "url_img":"https://pocketyoga.com/assets/images/full/chair.png"
+
+        },
+        {
+            "pose_name":"Crescent Lunge",
+            "sanskrit_name":"Ashta Chandrasana",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Intermediate",
+            "Description":"The front foot of one leg is rooted on the earth with the knee directly above and tracking the ankle in a 90-degree angle. The back leg is straight, no bend in the knee, and the weight is distributed backwards onto the toes as the back heel pushes back and down toward the earth. The inner thighs scissor toward each other and the pelvis is tucked under with the ribcage lifted and the chin slightly tucked. The spine is long and extended. The heart is open. The arms are straight with no bend in the elbows or the wrists. The hands can be together or separated and facing each other with the fingers spread wide. Gaze is natural and forward.",
+            "Benefits":"Creates flexible strength. Promotes stability in the front and back of the torso. Tones the lower body. Stretches the chest, lungs, shoulders, arms, neck, belly, groins (psoas) and the muscles of the back. Strengthens and stretches the thighs, calves and ankles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/lunge_crescent_L.png"
+
+        },
+        {
+            "pose_name":"Crescent Lunge on the Knee",
+            "sanskrit_name":"Anjaneyasana",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Beginner",
+            "Description":"The front knee is bent in a 90-degree angle directly above the ankle and the back knee is resting on the earth with the top of the back foot pressed firmly into the earth. The hips are squared and pressed forward. The inner thighs scissor toward each other. The pelvis is tucked under to protect the low back. The ribcage is lifted. The arms are lifted. The hands can be together or separated and facing each other with the fingers spread wide. The gaze is forward.",
+            "Benefits":"Stretches the chest, lungs, neck, belly and groin (psoas). Strengthens the shoulders, arms and back muscles. Strengthens and stretches the thighs, calves and ankles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/warrior_i_kneeling_L.png"
+
+        },
+        {
+            "pose_name":"Crescent Moon",
+            "sanskrit_name":"Ardha Chandrasana",
+            "Category":"Standing / Lateral Bend",
+            "Difficulty" :"Intermediate",
+            "Description":"From Mountain with Arms Up pose, extend upwards toward the sky as you bend to one side, lengthening the opposite side of the rib cage and stretch.",
+            "Benefits":"Stretches the rib cage, arms and torso. Tones the oblique muscles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/crescent_moon_R.png"
+
+        },
+        {
+            "pose_name":"Eagle",
+            "sanskrit_name":"Garudasana",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Intermediate",
+            "Description":"From a standing position the one thigh is crossed over the other with the toes and/or the ankle hooked behind the lower calf. The weight of the body is balanced on the standing foot. The arms are crossed in front of the torso so that one arm is crossed above the other arm. The top arm is tucked into the elbow crook of the bottom arm. The hands are hooked around each other as well. Once hooked, the elbows lift up and the fingers stretch toward the sky. The gaze is soft and forward.",
+            "Benefits":"Strengthens and stretches the ankles and calves. Stretches the thighs, hips, shoulders, and upper back. Improves concentration. Improves sense of balance.",
+            "url_img":"https://pocketyoga.com/assets/images/full/eagle_R.png"
+
+        },
+        {
+            "pose_name":"Standing Foot Behind the Head",
+            "sanskrit_name":"Durvasasana",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Advanced",
+            "Description":"Begin in Moon Bird. Shift your weight forward to come into a squat position by bending the knee of your extended leg and placing your foot on the ground. Using your core, stand up, keeping the foot behind the head. Option to place your palms on your standing thigh until you find your balance. Stand up tall, lift your chin and bring your hands to meet in prayer.",
+            "Benefits":"Strengthens the core and arms. Stretches the spine, hips and hamstrings.",
+            "url_img":"https://pocketyoga.com/assets/images/full/standing_foot_behind_head_R.png"
+
+        },
+        {
+            "pose_name":"Standing Foot to Head",
+            "sanskrit_name":"Trivikramasana A ",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Advanced",
+            "Description":"Begin in One Legged Mountain and bend your floating knee. Hinge from your hips and scoop up your foot by interlacing your hands underneath the sole of your foot. Keep your interlaced hands underneath the sole of your foot and straighten your leg out in front of you. Lift your chest and using your hands and core, lift your foot towards your head. Stand up tall, keeping your focus. Prevent hyper extension by keeping a soft bend in your knees.",
+            "Benefits":"Improves posture and balance. Increases flexibility in hip joints, knees, and ankles. Stretches the hamstrings and strengthens the abdominal muscles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/trivikrama_i_L.png"
+
+        },
+        {
+            "pose_name":"Standing Foot Behind the Head Forward Bend",
+            "sanskrit_name":"Richikasana",
+            "Category":"Standing / Forward Bend",
+            "Difficulty" :"Advanced",
+            "Description":"Begin in Standing Foot Behind the Head and hinge forward coming into a forward bend. Rest your palms on either side of your grounded foot and bring your forehead towards the leg. Extend through the back of your neck to bring your chin to the knee.",
+            "Benefits":"Stretches the spine, hips and hamstrings.",
+            "url_img":"https://pocketyoga.com/assets/images/full/standing_forward_bend_foot_behind_head_R.png"
+
+        },
+        {
+            "pose_name":"Standing Forward Bend",
+            "sanskrit_name":"Uttanasana",
+            "Category":"Standing / Forward Bend",
+            "Difficulty" :"Beginner",
+            "Description":"From a standing position, the body is folded over at the crease of the hip with the spine long. The neck is relaxed and the crown of the head is toward the earth. The feet are rooted into the earth with the toes actively lifted. The spine is straight. The ribcage is lifted. The chest and the thighs are connected. The sacrum lifts up toward the sky in dog tilt. The fingertips are resting on the earth next to the toes. The gaze is down or slightly forward.",
+            "Benefits":"Calms the brain and helps relieve stress and mild depression. Stimulates the liver and kidneys. Stretches the hamstrings, calves, and hips. Strengthens the thighs and knees. Improves digestion. Helps relieve the symptoms of menopause. Reduces fatigue and anxiety. Relieves headache and insomnia.",
+            "url_img":"https://pocketyoga.com/assets/images/full/forward_bend.png"
+
+        },
+        {
+            "pose_name":"Standing Half Bound Lotus Forward Bend",
+            "sanskrit_name":"Ardha Baddha Padmottanasana",
+            "Category":"Standing / Forward Bend",
+            "Difficulty" :"Intermediate",
+            "Description":"Begin in Standing Half Bound Lotus. Keeping your bind, extend your free arm high into the sky then hinge from your hips to fold over your grounded leg. Place your hand on the ground and draw your chin toward your chest. Concentrate on bringing your forehead to your shin.",
+            "Benefits":"Stretches and strengthens the hips, hamstrings, shoulders and knees.",
+            "url_img":"https://pocketyoga.com/assets/images/full/standing_forward_bend_half_lotus_R.png"
+
+        },
+        {
+            "pose_name":"Goddess",
+            "sanskrit_name":"Utkata Konasana ",
+            "Category":"Standing / Neutral",
+            "Difficulty" :"Beginner",
+            "Description":"Step your feet to the side to the length of your mat and wide apart. Turn your toes out toward the corners, heels in. Bend your knees directly over your toes and lower your hips into a squat at the same time. Tuck your tailbone in slightly and press your hips forward as you draw your thighs back. Pull your lower belly in and lift through your rib cage. Keep your knees in line with your toes. Soften your shoulders.",
+            "Benefits":"Strengthens the glutes, hips, thighs, calves, and ankles. Opens the hips and chest, stretches the thighs, and elongates the spine",
+            "url_img":"https://pocketyoga.com/assets/images/full/goddess_L.png"
+
+        },
+        {
+            "pose_name":"Gorilla",
+            "sanskrit_name":"Padahastasana ",
+            "Category":"Standing / Forward Bend",
+            "Difficulty" :"Intermediate",
+            "Description":"Begin from an upright standing position with the feet parallel (about six inches apart) and the front of the thighs contracted to lift the kneecaps. The body is bent forward from the crease of the hip joints with the legs completely straight and the torso parallel to the earth. The index and middle fingers of each hand are wrapped between the big toes and the second toes. Fingers and thumbs are curled around and under the big toes to firmly secure the wrap. The toes press down against the fingers. To fold deeper into the pose the sitting bones are lifted up toward the sky, the torso is pressed toward the thighs and the crown of the head is lowered toward the earth. Depending on flexibility, the lower back hollows to a greater or lesser degree. At the same time, without compressing the back of the neck, the sternum is lifted. The forehead stays relaxed. For the full extension of the pose the elbows bend out to the sides as the toes are pulled up. This lengthens the front and sides of the torso. For very long hamstrings, draw the forehead toward the shins. For hamstrings that are short, it is better to focus on keeping the front torso long. The gaze is down or toward the body.",
+            "Benefits":"Calms the brain and helps relieve stress and anxiety. Stimulates the liver and the kidneys. Stretches the hamstrings and the calves. Strengthens the thighs. Improves digestion. Helps relieve the symptoms of menopause. Helps relieve headaches and insomnia.",
+            "url_img":"https://pocketyoga.com/assets/images/full/gorilla.png"
+
+        },
+        {
+            "pose_name":"Half Moon",
+            "sanskrit_name":"Ardha Chandrasana",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Intermediate",
+            "Description":"From a standing position one leg is straight while the other is extended back parallel to the earth (or a little above parallel) and one hand is on the earth (beyond the little-toe side of the foot, about 12 inches) while the other hand is extended up toward the sky. The shoulder blades are squeezed together and the fingers move outward in opposing directions. The weight of the body is supported mostly by the standing leg while the bottom hand has very little weight on it but is used intelligently to regulate balance. The upper torso is rotated open to the sky. Both hips are externally rotated. Energy is extended actively through the flexed toes to keep the raised leg strong. The inner ankle of the standing foot is lifted strongly upward, as if drawing energy from the earth. The sacrum and scapulae are firmly pressed against the back torso and lengthen the coccyx toward the raised foot. The gaze is either up or down, depending on the condition of the neck. If injured the gaze is down.",
+            "Benefits":"Strengthens the abdomen, ankles, thighs, buttocks and spine. Stretches the groins, hamstrings, calves, shoulders, chest and spine. Improves coordination and sense of balance. Helps relieve stress. Improves digestion.",
+            "url_img":"https://pocketyoga.com/assets/images/full/half_moon_L.png"
+
+        },
+        {
+            "pose_name":"Revolved Half Moon",
+            "sanskrit_name":"Parivritta Ardha Chandrasana ",
+            "Category":"Standing / Twist",
+            "Difficulty" :"Intermediate",
+            "Description":"From Half Moon, slowly bring the top hand down to replace the bottom hand. On the next inhalation, bring the opposite hand to the sky, twist the pelvis to the opposite side and stack the shoulders on top of each other. Gaze is toward the sky and if not possible, gaze is downwards.",
+            "Benefits":"Strengthens the abdomen, ankles, thighs, buttocks and spine. Stretches the groins, hamstrings, calves, shoulders, chest and spine. Improves coordination and sense of balance.",
+            "url_img":"https://pocketyoga.com/assets/images/full/half_moon_revolved_L.png"
+
+        },
+        {
+            "pose_name":"Extended Standing Hand to Big Toe",
+            "sanskrit_name":"Utthita Parshvakonasana ",
+            "Category":"Standing / Lateral Bend",
+            "Difficulty" :"Intermediate",
+            "Description":"From Warrior II, engage your back thigh, anchor your back heel to the ground and maintain a 90 degree bend of your front knee. Keep your heart open and hinge forward towards your bent knee. Place your bottom palm on the inside or outside of your front foot. Extend your top arm up and over your head and bring your bicep by your ear. Take your eye gaze towards your top hand and rotate your chest and ribcage up towards the sky.",
+            "Benefits":"Strengthens and stretches the legs, knees, and ankles. Stretches the groin, spine, waist, chest, lungs, and shoulders. Stimulates abdominal organs. Increases stamina.",
+            "url_img":"https://pocketyoga.com/assets/images/full/warrior_ii_forward_arm_forward_L.png"
+
+        },
+        {
+            "pose_name":"Revolved Standing Hand to Big Toe",
+            "sanskrit_name":"Parivritta Hasta Padangushthasana",
+            "Category":"Standing / Twist",
+            "Difficulty" :"Advanced",
+            "Description":"Begin standing in Mountain. Shift your weight to one foot, and ground down firmly. Bend your opposite knee up toward your chest using both hands to hug it in. Begin to place your outside hand to the outer edge of your foot. As you straighten your floating leg, twist your torso toward the back and extend your opposite arm. Gaze toward your opposite arm.",
+            "Benefits":"Strengthens the legs and ankles. Stretches the back of the legs. Improves balance and focus.",
+            "url_img":"https://pocketyoga.com/assets/images/full/standing_hand_to_toe_revolved_L.png"
+
+        },
+        {
+            "pose_name":"Standing Hand to Big Toe",
+            "sanskrit_name":"Utthita Hasta Padangushthasana A ",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Advanced",
+            "Description":"Begin standing in Mountain. Shift your weight to one foot, and ground down firmly. Bend your opposite knee up toward your chest using the same side arm to hug it in. Wrap your index and middle finger around your big toe and begin to straighten your knee out in front of you. Place your opposite hand to your hip and square off your shoulders. You are now in Standing Hand to Big Toe (Preparation). Bend forward, as you pull your extended leg toward you, and bring your chin toward your shin. Gaze is to the front.",
+            "Benefits":"Stretches the hamstrings and strengthens the legs. Improves balance.",
+            "url_img":"https://pocketyoga.com/assets/images/full/standing_hand_to_toe_full_L.png"
+
+        },
+        {
+            "pose_name":"Mountain",
+            "sanskrit_name":"Samasthiti",
+            "Category":"Standing / Neutral",
+            "Difficulty" :"Beginner",
+            "Description":"The body is in the standing position, with the feet together and rooted into the earth. The weight of the body is evenly distributed on the four corners of the feet. The pelvis is tucked. The ribcage is lifted. The neck is a natural extension of the spine and the chin is slightly tucked toward the sternum. The shoulders are relaxed as they rotate back and down. The arms at your sides. The gaze is forward.",
+            "Benefits":"Improves posture. Strengthens thighs, knees, and ankles. Firms abdomen and buttocks. Relieves sciatica. Reduces flat feet.",
+            "url_img":"https://pocketyoga.com/assets/images/full/mountain_arms_side.png"
+
+        },
+        {
+            "pose_name":"Pyramid",
+            "sanskrit_name":"Parshvottanasana",
+            "Category":"Standing / Forward Bend",
+            "Difficulty" :"Intermediate",
+            "Description":"From Pyramid (Preparation), hinge your torso forward at the crease of your hip joint and fold your chest over your front thigh. Continue squaring your hips forward, gaze is down.",
+            "Benefits":"Calms the brain. Stretches the spine, the shoulders, the hips and the hamstrings. Strengthens the legs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/pyramid_prayer_L.png"
+
+        },
+        {
+            "pose_name":"Extended Side Angle",
+            "sanskrit_name":"Utthita Parshvakonasana",
+            "Category":"Standing / Lateral Bend",
+            "Difficulty" :"Intermediate",
+            "Description":"From Warrior II, engage your back thigh, anchor your back heel to the ground and maintain a 90 degree bend of your front knee. Keep your heart open and hinge forward towards your bent knee. Place your bottom palm on the inside or outside of your front foot. Extend your top arm up and over your head and bring your bicep by your ear. Take your eye gaze towards your top hand and rotate your chest and ribcage up towards the sky.",
+            "Benefits":"Strengthens and stretches the legs, knees, and ankles. Stretches the groin, spine, waist, chest, lungs, and shoulders. Stimulates abdominal organs. Increases stamina.",
+            "url_img":"https://pocketyoga.com/assets/images/full/warrior_ii_forward_arm_forward_L.png"
+
+        },
+        {
+            "pose_name":"Shiva Squat",
+            "sanskrit_name":"",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Intermediate",
+            "Description":"Begin in Standing Splits. Lift your chest half way up and hug your top knee behind your standing knee. Bend both knees as much as possible and sit back. Keep your front knee in line with your grounded ankle. Hips stay square and your core is engaged.",
+            "Benefits":"Stretches the calves, and thighs. Strengthens the thighs, knees, and ankles. Improves balance.",
+            "url_img":"https://pocketyoga.com/assets/images/full/shiva_squat_L.png"
+
+        },
+        {
+            "pose_name":"Standing Bow",
+            "sanskrit_name":"Dandayamana Dhanurasana",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Intermediate",
+            "Description":"Begin from a standing position with the weight of the body on one foot as the opposite heel lifts up toward the buttocks with a bent knee. The hand on the same side of the body as the bent knee reaches back to grasp the outside of the foot or ankle. With the added resistance of the hand gripping the foot, the bent leg and foot is then lifted up away from the earth and the torso toward the back of the room until the thigh is parallel to the earth. Then the arm on the same side of body as the standing leg extends up and forward to the front. The gaze is forward. Avoid compression in the lower back by actively lifting the pubis toward the navel while at the same time, pressing the tailbone toward the floor.",
+            "Benefits":"Stretches the shoulders, the chest, the thighs, the groins and abdomen. Strengthens the legs and the ankles. Improves balance.",
+            "url_img":"https://pocketyoga.com/assets/images/full/lord_of_the_dance_L.png"
+
+        },
+        {
+            "pose_name":"Standing Splits",
+            "sanskrit_name":"Urdhva Prasarita Eka Padasana",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Intermediate",
+            "Description":"From standing forward bend, lift your gaze and find a focal point on the ground in front of you. Walk your fingers out slightly in front of you. Shift your weight to one foot and lift your opposite leg up toward the sky. Focus on keeping your chest connected to the thigh of your grounded leg, even if you need to take a slight bend in your knee. The hip of your lifted leg should be squared, just like your grounded leg. Keep the hip bone of your lifted leg pointed downward and your toes rotated inward toward the midline of your body.",
+            "Benefits":"Stretches the hamstrings, calves, and thighs. Strengthens the thighs, knees, and ankles. Stretches the back of the leg, the front thigh and groin. Improves balance.",
+            "url_img":"https://pocketyoga.com/assets/images/full/splits_standing_L.png"
+
+        },
+        {
+            "pose_name":"Tree",
+            "sanskrit_name":"Vrikshasana ",
+            "Category":"Standing / Balancing",
+            "Description" :"From a standing position, one foot is rooted into the earth with the opposite heel rooted into the inner thigh with the toes pointing toward the earth. The pelvis and the chin are tucked in. The hands come together at the heart in prayer position. The gaze is forward.",
+            "Benefits":"Strengthens the legs, ankles, and feet. Improves flexibility in the hips and knees. Improves balance.",
+            "Difficulty":"Intermediate",
+            "url_img":"https://pocketyoga.com/assets/images/full/tree_prayer_R.png"
+
+        },
+        {
+            "pose_name":"Star",
+            "sanskrit_name":"Utthita Tadasana",
+            "Category":"Standing / Neutral",
+            "Difficulty" :"Beginner",
+            "Description":"Begin standing in Mountain. Step your feet apart wider than your hips, toes turned out slightly. Press into all four points of your feet and engage your legs. Tuck your tailbone slightly by bringing your pelvis to neutral. Reach your arms out to the side and energize your arms. Engage the back of your shoulders and broaden your collarbone.",
+            "Benefits":"Strengthens and lengthens the body. Aligns the spine. Strengthens legs, ankles, abdomen and back.",
+            "url_img":"https://pocketyoga.com/assets/images/full/star_L.png"
+
+        },
+        {
+            "pose_name":"Triangle",
+            "sanskrit_name":"Trikonasana",
+            "Category":"Standing / Lateral Bend",
+            "Difficulty" :"Beginner",
+            "Description":"From a standing position, the legs are straight and separated into a wide stance. The feet are aligned and flat on the earth with the back foot in a 60-degree angle toward the front. The inner thighs are rotated externally away from each other. The pelvis is tucked and the ribcage is lifted. One arm extends up toward the sky as the other reaches down to the earth. Both arms are aligned with the shoulders in a straight line. The fingers reach out as the shoulder blades squeeze together. The gaze is toward the front.",
+            "Benefits":"Stretches and strengthens the thighs, knees, and ankles. Stretches the hips, groin, hamstrings, calves, shoulders, chest, and spine. Stimulates the abdominal organs. Helps relieve stress. Improves digestion. Helps relieve the symptoms of menopause. Relieves backache, especially through second trimester of pregnancy. Therapeutic for anxiety, flat feet, infertility, neck pain, osteoporosis, and sciatica.",
+            "url_img":"https://pocketyoga.com/assets/images/full/triangle_forward_L.png"
+
+        },
+        {
+            "pose_name":"Revolved Triangle",
+            "sanskrit_name":"Parivritta Trikonasana",
+            "Category":"Standing / Twist",
+            "Difficulty" :"Intermediate",
+            "Description":"From a standing position the weight of the body is distributed equally between the front and back leg. The legs are in a wide stance, parallel and scissor toward each other. The back foot is at a 45 to 60 degree angle and the front and back heels are aligned. The forward thigh is turned outward so that the center of the kneecap is in line with the center of the ankle. The torso opens toward the sky while the hips are squared as much as possible. The top hand extends up while the bottom hand is either on the earth (inside or outside the foot) or, if flexibility is limited, on a block positioned against the inner sole of the foot. From the center of the back, between the shoulder blades, the arms press away from the torso. Beginning students should keep their head in a neutral position and look forward or turn the gaze toward the earth. More experienced students can turn the head and gaze up at the top thumb as a Drishti point.",
+            "Benefits":"Calms the brain. Stimulates the liver and kidneys. Stretches the hamstrings, calves, and thighs. Strengthens the thighs, knees, and ankles. Stretches the back of the leg, the front thigh and groin.",
+            "url_img":"https://pocketyoga.com/assets/images/full/triangle_revolved_L.png"
+
+        },
+        {
+            "pose_name":"Warrior I",
+            "sanskrit_name":"Virabhadrasana A",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Beginner",
+            "Description":"From a standing position, the legs are in a wide stance with the feet aligned and flat on the earth. The back foot is in a 60-degree angle toward the front. The hips are squared. The inner thighs are rotated toward each other. The front knee is bent in a 90-degree angle directly above the ankle. The arms extend up to the sky with the biceps by the ears. The hands can be together or separated and facing each other with the fingers spread wide. The ribcage is lifted and the pelvis tucked. The gaze is forward.",
+            "Benefits":"Stretches the chest, lungs, shoulders, neck, belly and groin (psoas). Strengthens the shoulders, arms and back muscles. Strengthens and stretches the thighs, calves and ankles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/warrior_i_L.png"
+
+        },
+        {
+            "pose_name":"Warrior II",
+            "sanskrit_name":"Virabhadrasana B",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Beginner",
+            "Description":"From a standing position, the legs are separated into a wide stance. The front knee is bent in a 90-degree angle directly above the ankle. The back leg is extended and straight with the outside edge of the back foot gripping the earth in a 60-degree angle toward the front. The inner thighs are externally rotated away from each other. The pelvis is tucked. The ribcage is lifted. The arms are extended out to the sides and are aligned with the shoulders in a straight line with the fingers reaching out as the shoulder blades squeeze together. The gaze is toward the front fingers.",
+            "Benefits":"Strengthens and stretches the legs and ankles. Stretches the groin, chest, lungs, and shoulders. Stimulates abdominal organs. Increases stamina. Relieves backaches, especially through second trimester of pregnancy. Therapeutic for carpal tunnel syndrome, flat feet, infertility, osteoporosis, and sciatica.",
+            "url_img":"https://pocketyoga.com/assets/images/full/warrior_ii_L.png"
+
+        },
+        {
+            "pose_name":"Warrior III",
+            "sanskrit_name":"Virabhadrasana C ",
+            "Category":"Standing / Balancing",
+            "Difficulty" :"Advanced",
+            "Description":"From a standing position, one leg is rooted and perpendicular to the earth while the other leg is raised, extended back and parallel to the earth. The head of the thighbone of the standing leg presses back toward the heel and is actively rooted into the earth. The arms and the extended leg lengthen in opposing directions with Bandhas engaged. The hips are squared and the tailbone presses firmly into the pelvis. The arms, torso, and extended raised leg should be positioned relatively parallel to the floor. The gaze is forward or down.            ",
+            "Benefits":"Strengthens the ankles and legs. Strengthens the shoulders and muscles of the back. Tones the abdomen. Improves balance and posture",
+            "url_img":"https://pocketyoga.com/assets/images/full/warrior_iii_L.png"
+
+        },
+        {
+            "pose_name":"Wide Legged Forward Bend I",
+            "sanskrit_name":"Prasarita Padottanasana A ",
+            "Category":"Standing / Forward Bend",
+            "Difficulty" :"Intermediate",
+            "Description":"Begin standing in Mountain. Step your feet apart wider than your hips, toes turned in, heels out slightly. Press into all four points of your feet and engage your legs. Tuck your tailbone slightly by bringing your pelvis to neutral. Place your hands to your hips and hinge forward to fold. Once you can no longer go further, drop your hands underneath your head and begin to walk your hands through your legs. Drop the crown of your head down and relax your neck. Continue to draw energy up your feet and tilt your hips up and forward slightly. Keep your weight forward so your hips and ankles stay in line.",
+            "Benefits":"Strengthens and lengthens the body. Aligns the spine. Strengthens legs, ankles, abdomen and back.",
+            "url_img":"https://pocketyoga.com/assets/images/full/wide_legged_forward_bend_i_L.png"
+
+        },
+        {
+            "pose_name":"Wide Legged Forward Bend II",
+            "sanskrit_name":"Prasarita Padottanasana B ",
+            "Category":"Standing / Forward Bend",
+            "Difficulty" :"Intermediate",
+            "Description":"Begin standing in Mountain. Step your feet apart wider than your hips, toes turned in, heels out slightly. Press into all four points of your feet and engage your legs. Tuck your tailbone slightly by bringing your pelvis to neutral. Place your hands to your hips and hinge forward to fold. Keep your hands at your hips. Drop the crown of your head down and relax your neck. Continue to draw energy up your feet and tilt your hips up and forward slightly. Keep your weight forward so your hips and ankles stay in line.",
+            "Benefits":"Strengthens and lengthens the body. Aligns the spine. Strengthens legs, ankles, abdomen and back.",
+            "url_img":"https://pocketyoga.com/assets/images/full/wide_legged_forward_bend_ii_L.png"
+
+        },
+        {
+            "pose_name":"Wide Legged Forward Bend III",
+            "sanskrit_name":"Prasarita Padottanasana C",
+            "Category":"Standing / Forward Bend",
+            "Difficulty" :"Intermediate",
+            "Description":"Begin standing in Mountain. Step your feet apart wider than your hips, toes turned in, heels out slightly. Press into all four points of your feet and engage your legs. Tuck your tailbone slightly by bringing your pelvis to neutral. Interlace your fingers behind your lower back and press your shoulder blades together. Draw your interlaced fingers down as you expand through your chest, then hinge forward to fold. Lift your interlaced fingers off your back and begin to move them up and over toward your head. Drop the crown of your head down and relax your neck. Continue to draw energy up your feet and tilt your hips up and forward slightly. Keep your weight forward so your hips and ankles stay in line.",
+            "Benefits":"Strengthens and lengthens the body. Aligns the spine. Strengthens legs, ankles, abdomen and back. Opens the shoulders.",
+            "url_img":"https://pocketyoga.com/assets/images/full/wide_legged_forward_bend_iii_L.png"
+
+        },
+        {
+            "pose_name":"Wide Legged Forward Bend IV",
+            "sanskrit_name":"Prasarita Padottanasana D",
+            "Category":"Standing / Forward Bend",
+            "Difficulty" :"Intermediate",
+            "Description":"Begin standing in Mountain. Step your feet apart wider than your hips, toes turned in, heels out slightly. Press into all four points of your feet and engage your legs. Tuck your tailbone slightly by bringing your pelvis to neutral. Place your hands to your hips and hinge forward to fold. Once you can no longer go further, slide your hands toward your toes. Wrap your index and middle finger around your big toes. Pull up on your big toes to fold deeper. Allow your elbows to bend and broaden through your back. Drop the crown of your head down and relax your neck. Continue to draw energy up your feet and tilt your hips up and forward slightly. Keep your weight forward so your hips and ankles stay in line.",
+            "Benefits":"Strengthens and lengthens the body. Aligns the spine. Strengthens legs, ankles, abdomen and back.            ",
+            "url_img":"https://pocketyoga.com/assets/images/full/wide_legged_forward_bend_iv_L.png"
+        }
+
+    ],
+    "Seated":[
+        {
+            "pose_name":"Archer's",
+            "sanskrit_name":"Akarna Dhanurasana",
+            "Category":"Seated / Neutral",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in seated position with your legs straight in front and hinge forward. Wrap your index and middle fingers around your big toes. Bend one knee and place the heel on the floor a few inches away from your opposite inner knee. Press the back of your straight leg into the floor then hinge slightly forward. Keep a strong hold of both big toes and pick up the leg of your bent knee. You may need to lean your weight slightly over towards the straight leg. Draw your elbow and shoulder back to bring your foot close to your ear and then root both sitting bones as much as possible.",
+            "Benefits":"Stretches the arms, hips and legs. Strengthens the arms, shoulders and hip mobility.",
+            "url_img":"https://pocketyoga.com/assets/images/full/archer_R.png" 
+        },
+        {
+            "pose_name":"Boat",
+            "sanskrit_name":"Navasana",
+            "Category":"Seated / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"From a seated position the feet are lifted up so that the thighs are angled about 45-50 degrees relative to the earth. The legs are straight. The tailbone is lengthened into the earth and the pubis pulls toward the navel. The shoulder blades are spread across the back and the hands reach straight forward making the arms are parallel to the earth. The chin is tipped slightly toward the sternum so that the base of the skull lifts lightly away from the back of the neck. Gaze is forward.",
+            "Benefits":"Strengthens the abdomen, hip flexors, and spine. Stimulates the kidneys, thyroid and prostate glands, and intestines. Helps relieve stress. Improves digestion.",
+            "url_img":"https://pocketyoga.com/assets/images/full/boat_full.png" 
+        },
+        {
+            "pose_name":"Both Feet Behind the Head I",
+            "sanskrit_name":"Dvi Pada Shirshasana A ",
+            "Category":"Seated / Neutral",
+            "Difficulty":"Advanced",
+            "Description":"Begin in a seated position. Bend one knee and externally rotate it out to the side, upward and back. Hinge your head slightly forward and place your lower leg, just above the ankle, behind your head, preferably at the crease of your neck. Create more space by bringing the top of your shoulder and arm through, pressing the shoulder back and keep the chin lifted to keep the leg in position. Keep the torso facing forward. Bend the other knee and externally rotate it out to the side, upward and back using the same side hand to place the feet next to each other. Drop your hand for balance and allow the feet to work their way closer together until the ankles are crossed. Create more space by bringing the top of your opposite shoulder and arm through. Once balanced, bring your hands to meet in prayer.",
+            "Benefits":"Stretches the spine, hips and hamstrings.",
+            "url_img":"https://pocketyoga.com/assets/images/full/foot_behind_head_two_legged.png" 
+        },
+        {
+            "pose_name":"Bound Angle",
+            "sanskrit_name":"Baddha Konasana",
+            "Category":"Seated / Neutral",
+            "Difficulty":"Beginner",
+            "Description":"In sitting position, bend both knees and drop the knees to each side, opening the hips. Bring the soles of the feet together and bring the heels as close to the groin as possible, keeping the knees close to the ground. The hands may reach down and grasp and maneuver the feet so that the soles are facing upwards and the heels and little toes are connected. The shoulders should be pulled back and no rounding of the spine.",
+            "Benefits":"Opens the hips and groins. Stretches the shoulders, rib cage and back. Stimulates the abdominal organs, lungs and heart.",
+            
+            "url_img":"https://pocketyoga.com/assets/images/full/bound_angle.png" 
+        },
+        {
+            "pose_name":"Butterfly",
+            "sanskrit_name":"",
+            "Category":"Seated / Forward Bend",
+            "Difficulty":"Beginner",
+            "Description":"From a seated position, bring the soles of the feet together and slide them away from the groin to form a diamond shape. Hinge forward and bring the forehead towards the heels, allowing the back to round. Hands can rest on your feet or on the floor. Allow your neck to relax and close your eyes, and breathe. A block can be placed between the feet to rest the forehead on.",
+            "Benefits":"Stretches the lower back and adductor muscles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/butterfly.png" 
+        },
+        {
+            "pose_name":"Caterpillar",
+            "sanskrit_name":"",
+            "Category":"Seated / Forward Bend",
+            "Difficulty":"Beginner",
+            "Description":"Begin in a seated position with your legs straight in front. Fold forward over the legs, allowing the back to round. Hands can be on the floor, or may catch your shins, ankles, or toes. Sit on a blanket to support this pose if needed.",
+            "Benefits":"Stretches the spine and kidneys, compresses the stomach to improve digestion.",
+            "url_img":"https://pocketyoga.com/assets/images/full/caterpillar.png" 
+        },
+        {
+            "pose_name":"Cow Face",
+            "sanskrit_name":"",
+            "Category":"Seated / Neutral",
+            "Difficulty":"Intermediate",
+            "Description":"From Shoelace, one arm reaches up and back from above the shoulder while the opposite arm reaches down and back from under the shoulder and around the torso into a bind at the center of the upper back. The gaze is forward.",
+            "Benefits":"Stretches the ankles, hips and thighs. Stretches the shoulders, armpits, triceps, and chest.",
+            "url_img":"https://pocketyoga.com/assets/images/full/knee_pile_bind_L.png" 
+        },
+        {
+            "pose_name":"Easy",
+            "sanskrit_name":"Sukhasana",
+            "Category":"Seated / Neutral",
+            "Difficulty":"Beginner",
+            "Description":"From a seated position, bring your knees into a simple cross legged pose. Both knees should be below the hips. Place the hands on the thighs or knees and keep the spine straight.",
+            "Benefits":"Opens the hips and stretches the knees and ankles. Strengthens the back. Calms the mind, reduces stress and anxiety. Improves circulation and blood flow to the pelvis.",
+            "url_img":"https://pocketyoga.com/assets/images/full/easy.png" 
+        },
+        {
+            "pose_name":"Embryo in Womb",
+            "sanskrit_name":"Garbha Pindasana ",
+            "Category":"Seated / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"Come into your Lotus. Shift your hips back slightly and thread your hands and arms through your Lotus legs between your thighs and calves. Press your Lotus legs towards your chest. Come into balance on your sit bones and bring your palms to your face.",
+            "Benefits":"Strengthens core. Improves flexibility of hips, knees and ankles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/embryo_womb.png" 
+        },
+        {
+            "pose_name":"Fire Log",
+            "sanskrit_name":"Agnistambhasana",
+            "Category":"Seated / Neutral",
+            "Difficulty":"Beginner",
+            "Description":"From a seated position, stack both shins on top of each other until they are parallel to the front edge of the mat.",
+            "Benefits":"Opens the hips. Strengthens the back muscles by elongating the spine. Improves alignment of the spine; thereby improving posture. Calming and centering pose that improves concentration and facilitates meditation. Ameliorates stress and anxiety.",
+            "url_img":"https://pocketyoga.com/assets/images/full/fire_log_L.png" 
+        },
+        {
+            "pose_name":"Foot Behind the Head I",
+            "sanskrit_name":"Eka Pada Shirshasana ",
+            "Category":"Seated / Neutral",
+            "Difficulty":"Advanced",
+            "Description":"Begin in a seated position. Bend one knee and externally rotate it out to the side, upward and back. Hinge your head slightly forward and place your lower leg, just above the ankle, behind your head, preferably at the crease of your neck. Create more space by bringing the top of your shoulder and arm through then press your shoulder back to keep the leg in position. Lift the chest, grow the spine tall and energize through the seated leg. Bring your hands to meet in prayer.",
+            "Benefits":"Stretches the spine, hips and legs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/foot_behind_head_R.png" 
+        },
+        {
+            "pose_name":"Foot Behind the Head II",
+            "sanskrit_name":"Eka Pada Shirshasana B",
+            "Category":"Seated / Forward Bend",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Foot Behind the Head I. Hinge and fold forward over your straight leg. Extend your chin to keep the leg secure behind the head.",
+            "Benefits":"Stretches the spine, hips and hamstrings.",
+            "url_img":"https://pocketyoga.com/assets/images/full/foot_behind_head_forward_R.png" 
+        },
+        {
+            "pose_name":"Garland",
+            "sanskrit_name":"Upaveshasana",
+            "Category":"Seated / Balancing",
+            "Difficulty":"Beginner",
+            "Description":"From a squatting position the feet are as close together as possible (keep your heels on the floor if you can; otherwise, support them on a folded mat). The thighs are slightly wider than the torso. The torso is leaning gently forward and tucked snugly between the thighs. The elbows are pressed against the inner knees and the palms are together in Anjali Mudra (Salutation Seal). The knees resist the elbows to help lengthen the front torso. The gaze is soft and forward.",
+            "Benefits":"Stretches the ankles, groins and back torso. Tones the belly.",
+            "url_img":"https://pocketyoga.com/assets/images/full/garland_sideways_L.png" 
+        },
+        {
+            "pose_name":"Seated Gate",
+            "sanskrit_name":"Parighasana ",
+            "Category":"Seated / Forward Bend",
+            "Difficulty":"Intermediate",
+            "Description":"Sit on the floor with your torso upright and your legs wide. Bend one knee, finding an outer rotation, and place your heel behind your knee. Lift your arms up overhead, then take a side bend stretch toward your extended leg. Try to press your bottom shoulder against the inside of your extended knee. When your knee is straight, twist your torso toward the sky. Lift your opposite arm up, lean back slightly, and then, sweep it behind your ear and take hold of the outside edge of your extended foot. Press your elbows away from each other, using them like a crank to help twist your upper torso further. Turn your head to look at the sky. Repeat on opposite side.",
+            "Benefits":"Stretches the spine, shoulders, obliques, and hamstrings. Improves flexibility in the knees and ankles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/seated_gate_R.png" 
+        },
+        {
+            "pose_name":"Hero",
+            "sanskrit_name":"Virasana ",
+            "Category":"Seated / Backbend",
+            "Difficulty":"Beginner",
+            "Description":"From a kneeling position on the floor (with a folded blanket to pad your knees, shins, and feet if necessary) the weight of the body is centered between your feet in a seated position. If the buttocks don't comfortably rest on the floor, raise them on a block placed between the feet. Make sure both sitting bones are evenly supported. There is a thumb's-width space between the inner heels and the outer hips. The thighs are rotated inward and the heads of the thigh-bones are pressed into the earth with the bases of your palms. The hands rest on the lap or on the thighs. The shoulder blades are firmed against the back ribs and the top of your sternum is lifted like a proud warrior. The collarbones are widened as the shoulder blades release away from the ears. The tailbone lengthens into the floor to anchor the back torso.",
+            "Benefits":"Stretches the thighs, knees, and ankles. Strengthens the arches. Improves digestion and relieves gas. Helps relieve the symptoms of menopause. Reduces swelling of the legs during pregnancy (through second trimester). Therapeutic for high blood pressure and asthma.",
+            "url_img":"https://pocketyoga.com/assets/images/full/hero.png" 
+        },
+        {
+            "pose_name":"Heron",
+            "sanskrit_name":"Kraunchasana ",
+            "Category":"Seated / Neutral",
+            "Difficulty":"Advanced",
+            "Description":"Begin in a seated position. Lean to one side, bend your opposite knee to roll your calf out, and place your leg in Hero pose with your heel close to your hip. Distribute your weight evenly among both sit bones. Bend the opposite leg out in front of you, take a hold of the heel with both hands and begin to straighten it. Keep your spine long, chest open and the sternum lifted.",
+            "Benefits":"Stretches the thighs, knees, and ankles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/heron_R.png" 
+        },
+        {
+            "pose_name":"Lord of the Fishes",
+            "sanskrit_name":"Paripurna Matsyendrasana",
+            "Category":"Seated / Twist",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Half Lotus with your right foot resting on top of your left thigh. Bend your left knee toward your chest and twist towards the left. Reach around with your left arm and grip your right ankle firmly with your left hand. Twist deeper to bring your right shoulder over your left knee and then grab your left foot with your right hand. Breathe and repeat on opposite side.",
+            "Benefits":"Improves spinal flexibility. Stretches and strengthens, the spine, shoulders and hips.",
+            "url_img":"https://pocketyoga.com/assets/images/full/lord_of_the_fishes_R.png" 
+        },
+        {
+            "pose_name":"Lotus",
+            "sanskrit_name":"Padmasana",
+            "Category":"Seated / Neutral",
+            "Difficulty":"Intermediate",
+            "Description":"From Half Lotus, bring the bottom ankle and place it on top of the opposite knee, both ankles will be resting on top of the thighs.",
+            "Benefits":"Opens the hips, groin and stretches the knees, ankles and thighs. Strengthens the back and calms the mind, reduces stress and anxiety. Improves circulation and blood flow in the pelvis.",
+            "url_img":"https://pocketyoga.com/assets/images/full/lotus_full.png" 
+        },
+        {
+            "pose_name":"Half Pigeon",
+            "sanskrit_name":"Ardha Kapotasana ",
+            "Category":"Seated / Backbend",
+            "Difficulty":"Beginner",
+            "Description":"From a lounging position, the hips are parallel and squared to the earth with the front knee bent in a 90-degree angle and flat on the earth. The front foot rests close to the groin. The back leg is extended with the knee and the back foot squared, parallel and pressed firmly into the earth. The ribcage is lifted. The heart is open. Fingers rest on the earth by the side body. The gaze is forward.",
+            "Benefits":"Stretches the thighs, groin, psoas, abdomen, chest, shoulders, and neck. Stimulates the abdominal organs. Opens the shoulders and chest.",
+            "url_img":"https://pocketyoga.com/assets/images/full/pigeon_half_L.png" 
+        },
+        {
+            "pose_name":"Rock the Baby",
+            "sanskrit_name":"",
+            "Category":"Seated / Neutral",
+            "Difficulty":"Beginner",
+            "Description":"Begin in a seated position. Bend one knee and externally rotate it out to the side. Position the knee into the crease of your elbow while bringing the foot into the crease of your opposite elbow. If you cannot bring your knee and foot into the creases of your elbows, scoop your arms under your calf and gently hug your leg closer to your chest. Keep the opposite leg long and extended and energize through the heel. Flex both feet and grow the spine tall.",
+            
+            "Benefits":"Stretches hips, hamstrings and calves.",
+            "url_img":"https://pocketyoga.com/assets/images/full/cradle_R.png" 
+        },
+        {
+            "pose_name":"Sage Marichi's III",
+            "sanskrit_name":"Marichyasana C",
+            "Category":"Seated / Twist",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in a seated position. Bend one knee in toward your chest and place your foot on the floor, with your heel as close to the same side sitting bone as possible. Your inner thigh and torso should be close. Keep the opposite leg extended and rotated slightly inward by grounding the head of your thighbone into the floor. Flex the foot of your activated, extended leg. Extend the arm of your same side extended leg high into the sky and begin to twist it to the outside of your bent knee. Use your opposite hand as leverage to twist deeper. Hook your elbow to the outside of your thigh and gaze over your back shoulder. If you want to extend your twist deeper, wrap your arm around the shin of your bent knee and sweep your opposite arm around to meet it. Catch opposite fingertips or the wrist. Keep a long spine.",
+            "Benefits":"Stretches the shoulders, spine and abdominal muscles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/marichi_iii_traditional_R.png" 
+        },
+        {
+            "pose_name":"Front Splits",
+            "sanskrit_name":"Hanumanasana",
+            "Category":"Seated / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"The hips are parallel and squared to the earth with one leg extended forward. The opposite leg extended back with the knee and foot squared to the earth. The inner thighs scissor toward each other. The hands are by the side body or at the heart center in Anjali Mudra (Salutation Seal) or stretched straight up toward the sky. The ribcage is lifted. The heart is open. The gaze is forward.",
+            "Benefits":"Stretches the thighs, hamstrings, and groin. Stimulates the abdominal organs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/splits_front_L.png" 
+        },
+        {
+            "pose_name":"Staff",
+            "sanskrit_name":"Dandasana ",
+            "Category":"Seated / Neutral",
+            "Difficulty":"Beginner",
+            "Description":"From a seated position both legs are extended to the front. The torso does not lean backward. The weight of the body is positioned toward the front of the sitting bones and the pubis and tailbone are equidistant from the earth. Both thighs are pressed down against the floor and are rotated slightly toward each other. The inner groins are drawn up toward the sacrum. Feet are flexed and the toes are separated. The heels may come up off the earth. The ankles are pressed out through the heels. The shoulders are stacked in line with the hips. The arms are by the side body with the palms pressing firmly into the ground. The front torso is lengthened perpendicular to the earth, extending up through the crown of the head toward the sky while the sits bones are rooted down.",
+            "Benefits":"Strengthens the back muscles. Stretches the shoulders and chest. Improves posture.",
+            "url_img":"https://pocketyoga.com/assets/images/full/staff.png" 
+        },
+        {
+            "pose_name":"Thunderbolt",
+            "sanskrit_name":"Vajrasana ",
+            "Category":"Seated / Neutral",
+            "Difficulty":"Beginner",
+            "Description":"Begin kneeling on the floor with your hips over your knees. Place your inner knees together and your thighs perpendicular to the floor. Un-tuck your toes and press the tops of your feet into the ground. Sit on your heels by resting your glutes on the soles of your feet. Keep your feet directly in line with your shins. Your feet and thighs should be touching throughout the pose. Sit up straight and draw your shoulder blades firmly against your back ribs. Widen across your collarbone and drop your shoulders away from your ears. Sit up tall and lengthen your tailbone toward the floor. Allow your arms to relax and rest your palms on your thighs. Soften your gaze.",
+            "Benefits":"Stretches the thighs, ankles, knees, and feet. Improves posture and tones the pelvic muscles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/thunderbolt.png" 
+        }
+
+    ],
+    "Supine":[
+        {
+            "pose_name":"Banana",
+            "sanskrit_name":"",
+            "Category":"Supine / Lateral Bend",
+            "Difficulty":"Beginner",
+            "Description":"Start from Corpse pose. Bring your hands overhead, interlace your fingers or catch the opposite wrist. Extend your spine and keep your legs together. With your glutes and hips connected to the floor, walk your feet and upper body to one side. When your body becomes more flexible, arch a little more, keeping both hips on the floor. Come back to center.",
+            "Benefits":"Strengthens the spine and rib cage in a lateral flexion. Stretches the oblique stomach muscles and intercostal muscles between the ribs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/banana_R.png"
+        },
+        {
+            "pose_name":"Bridge",
+            "sanskrit_name":"Setu Bandha Sarvangasana",
+            "Category":"Supine / Backbend",
+            "Difficulty":"Intermediate",
+            "Description":"From a supine position, on your back, the hips are pressed up with the heels of the feet rooted into the earth close to the sits bones. The toes are actively lifted and the pelvis tucked. The thighs are parallel to the earth and the fingers are interlaced under the body with the ribcage lifted and the heart open. The back of the neck rests on the earth. The gaze is to the sky.",
+            "Benefits":"Stretches the chest, neck, and spine. Stimulates abdominal organs, lungs, and thyroids. Rejuvenates tired legs. Improves digestion. Helps relieve the symptoms of menopause. Relieves menstrual discomfort when done supported. Reduces anxiety, fatigue, backache, headache, and insomnia. Therapeutic for asthma, high blood pressure, osteoporosis, and sinusitis.",
+            "url_img":"https://pocketyoga.com/assets/images/full/bridge.png"
+        },
+        {
+            "pose_name":"Corpse",
+            "sanskrit_name":"Shavasana ",
+            "Category":"Supine / Neutral",
+            "Difficulty":"Beginner",
+            "Description":"The body rests on the earth in a supine position with the arms resting by the side body. The palms are relaxed and open toward the sky. The shoulder blades are pulled back, down and rolled under comfortably, resting evenly on the earth. The legs are extended down and splayed open. The heels are in and the toes flop out. The eyes are closed. Everything is relaxed. The gaze is inward.",
+            "Benefits":"Calms the brain and helps relieve stress and mild depression. Relaxes the body. Reduces headache, fatigue, and insomnia. Helps to lower blood pressure.",
+            "url_img":"https://pocketyoga.com/assets/images/full/corpse.png"
+        },
+        {
+            "pose_name":"Fish",
+            "sanskrit_name":"Matsyasana",
+            "Category":"Supine / Backbend",
+            "Difficulty":"Beginner",
+            "Description":"Begin in a seated position with your knees bent out in front of you. Drop your forearms behind you, palms down, fingertips forward and begin to lean back. Press your shoulder blades together and slide your glutes back toward the tops of your hands. Once you feel safe, drop the crown of your head onto the ground and gaze behind you. Stay on the crown of your head and lift your chest toward the sky. Keep bent knees or walk one leg at a time out in front of you and keep them engaged.",
+            "Benefits":"Releases the neck. Opens the belly and chest. Strengthens the spine and shoulders.",
+            "url_img":"https://pocketyoga.com/assets/images/full/fish_preparation.png"
+        },
+        {
+            "pose_name":"Supine Foot to Head",
+            "sanskrit_name":"Supta Trivikramasana",
+            "Category":"Supine / Neutral",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Supine Hand to Big Toe. Lower your chest and head and continue extending your leg overhead with the intention of bringing your big toes towards the ground. Keep the opposite leg engaged to assist on keeping the hips squared.",
+            "Benefits":"Stretches the hamstrings and strengthens the leg.",
+            "url_img":"https://pocketyoga.com/assets/images/full/supine_trivikrama_L.png"
+        },
+        {
+            "pose_name":"Extended Supine Hand to Big Toe",
+            "sanskrit_name":"Supta Padangushthasana B",
+            "Category":"Supine / Neutral",
+            "Difficulty":"Intermediate",
+            "Description":"From Supine Hand to Big Toe (Preparation) pose, drop the extended leg to one side, opening the hip. Keep the knee straight and if necessary use a strap. Place the opposite hand on the pelvic bone to prevent the glut from lifting off the floor. Keep the gluts grounded.",
+            "Benefits":"Opens the hips and groins. Stretches the hamstrings, iliotibial bands and legs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/supine_hand_to_toe_extended_L.png"
+        },
+        {
+            "pose_name":"Supine Hand to Big Toe",
+            "sanskrit_name":"Supta Padangushthasana A",
+            "Category":"Supine / Neutral",
+            "Difficulty":"Intermediate",
+            "Description":"In supine position, raise one leg to the sky. Using the hand from the same side, catch your big toe to bring the knee closer to the chest, straightening the knee. Make sure the gluts and the other leg are rested on the floor. You are now in Supine Hand to Big Toe (Preparation). Pull your extended leg toward you, and bring your chin toward your shin. Place the opposite hand on the pelvic bone to prevent the glut from lifting off the floor.",
+            "Benefits":"Stretches the hamstrings and strengthens the leg.",
+            "url_img":"https://pocketyoga.com/assets/images/full/supine_hand_to_toe_full_L.png"
+        },
+        {
+            "pose_name":"Happy Baby",
+            "sanskrit_name":"Ananda Balasana",
+            "Category":"Supine / Balancing",
+            "Difficulty":"Beginner",
+            "Description":"From a supine position, on your back, the knees are bent slightly wider than the hips. The ankles and shins track the knees in a 90-degree angle perpendicular to the earth. The hands grip the inside sole of the flexed feet (if you have difficultly holding the feet loop a strap over each sole) and push the knees down, coaxing the thighs in toward the torso, lengthening the spine, releasing the tail bone toward the earth and extending the base of the skull away from the back of the neck. The gaze is up toward the sky.",
+            "Benefits":"Gently stretches the inner groins and the back spine. Calms the brain and helps relieve stress and fatigue.",
+            "url_img":"https://pocketyoga.com/assets/images/full/blissful_baby.png"
+        },
+        {
+            "pose_name":"Rejuvenation",
+            "sanskrit_name":"Supta Dandasana ",
+            "Category":"Supine / Balancing",
+            "Difficulty":"Beginner",
+            "Description":"From a supine position, with the back relaxed onto the earth, the legs extend toward the sky without any tension behind the knees. The arms rest by the side body and the palms open toward the sky in a receptive mode. Hold this position or gently sway the legs from side to side. The eyes are closed and the gaze is inward.",
+            "Benefits":"Releases spine and lower back and heals the body.",
+            "url_img":"https://pocketyoga.com/assets/images/full/corpse_double_leg_raise.png"
+        },
+        {
+            "pose_name":"Sleeping Yogi",
+            "sanskrit_name":"Yoga Nidrasana ",
+            "Category":"Supine / Forward Bend",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Corpse pose. Bring both legs in and find an external rotation of the hips similar to Happy Baby. Work one leg behind the head bringing your arm through and then the other. Cross your ankles. Press your head downward into the ankles, lift your chest through and press your shoulders downward into your calves. Reach forward with your arms towards your sacrum and if possible, interlace your fingers.            ",
+            "Benefits":"Stretches and strengthens the hamstrings, hip flexors, calves and spinal muscles.            ",
+            "url_img":"https://pocketyoga.com/assets/images/full/yogic_sleep.png"
+        },
+        {
+            "pose_name":"Supine Spinal Twist",
+            "sanskrit_name":"Supta Matsyendrasana ",
+            "Category":"Supine / Twist",
+            "Difficulty":"Beginner",
+            "Description":"From a supine position, bend one knee and cross it outside of the opposite foot. Use your hand to put slight pressure on the bent knee to push down toward the floor. Keep both shoulders squared and rooted to the earth. Extend the opposite hand and gaze toward the hand. For a deeper stretch, start to straighten the bent leg into Revolved Supine Hand to Big Toe.",
+            "Benefits":"Stretches the back muscles and spine. Stimulates the kidneys, abdominal organs, urinary bladders and intestines. Releases stress. If the knee is straightened, it stretches the hamstrings and strengthens the legs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/supine_spinal_twist_L.png"
+        },
+        {
+            "pose_name":"Supine Straddle",
+            "sanskrit_name":"Supta Samakonasana",
+            "Category":"Supine / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in Happy Baby and slowly extend both legs outward. Option to release your hands and allow gravity to take place. Keep length in the spine and your head and tailbone rooted.",
+            "Benefits":"Gently stretches the inner groins and the back spine.",
+            "url_img":"https://pocketyoga.com/assets/images/full/supine_straddle.png"
+        },
+        {
+            "pose_name":"Wind Removing",
+            "sanskrit_name":"Pavanamuktasana",
+            "Category":"Supine / Forward Bend",
+            "Difficulty":"Beginner",
+            "Description":"From a supine position, lying on your back, the knees are bent and pulled into the chest. The arms are wrapped around the knees. The gaze is inward.",
+            "Benefits":"Releases the back and the spine. A good counterpose after a backbend.",
+            "url_img":"https://pocketyoga.com/assets/images/full/turtle.png"
+        }
+
+    ],
+    "Prone":[
+        {
+            "pose_name":"Bow",
+            "sanskrit_name":"Dhanurasana ",
+            "Category":"Prone / Backbend",
+            "Difficulty":"Intermediate",
+            "Description":"From a prone position with the abdomen on the earth, the hands grip the ankles (but not the tops of the feet) with knees no wider than the width of your hips. The heels are lifted away from the buttocks and at the same time the thighs are lifted away from the earth working opposing forces as the heart center, hips and back open. The gaze is forward.",
+            "Benefits":"Stretches the entire front of the body, ankles, thighs and groins, abdomen and chest, and throat, and deep hip flexors (psoas). Strengthens the back muscles. Improves posture. Stimulates the organs of the abdomen and neck.",
+            "url_img":"https://pocketyoga.com/assets/images/full/bow.png"
+        },
+        {
+            "pose_name":"Half Bow",
+            "sanskrit_name":"Ardha Dhanurasana ",
+            "Category":"Prone / Backbend",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in a prone position, lying down on your belly, legs extended straight back and arms overhead with the forehead rested on the ground. Bend one knee and with the same side arm, reach to catch the outside of your foot or ankle. On an inhale, lift your chest and thighs off the ground and kick your foot or ankle into your hand. Your neck is in a neutral position.",
+            "Benefits":"Stretches the shoulders, the chest, the thighs, the groins and abdomen. Strengthens the legs and the ankles. Improves spine flexibility.",
+            "url_img":"https://pocketyoga.com/assets/images/full/prone_bow_half_R.png"
+        },
+        {
+            "pose_name":"Child's",
+            "sanskrit_name":"Balasana",
+            "Category":"Prone / Forward Bend",
+            "Difficulty":"Beginner",
+            "Description":"From a kneeling position, the toes and knees are together with most of the weight of the body resting on the heels of the feet. The arms are extended back resting alongside the legs. The forehead rests softly onto the earth. The gaze is down and inward.",
+            "Benefits":"Gently stretches the hips, thighs, and ankles. Calms the brain and helps relieve stress and fatigue. Relieves back and neck pain when done with head and torso supported.",
+            "url_img":"https://pocketyoga.com/assets/images/full/child_traditional.png"
+        },
+        {
+            "pose_name":"Cobra",
+            "sanskrit_name":"Bhujangasana ",
+            "Category":"Prone / Backbend",
+            "Difficulty":"Intermediate",
+            "Description":"Begin by lying face down with your legs extended behind you, hip-width apart and the tops of your feet rested. Spread your fingers wide and place your hands under your shoulders with your fingers pointing toward the top of the mat. Hug your elbows into the sides of your body. Press down through the tops of your feet and lift your head and chest off the floor. Keep your lower ribs on the floor. Draw your shoulders back and your heart forward keeping your head a natural extension of your spine and your shoulders rolled down and away from your ears. Begin to straighten your arms and lift your chest off the floor. Press the tops of your thighs down firmly into the floor. This is Low Cobra. Little to no weight on your hands. If your flexibility allows, you can straighten your arms all the way while maintaining the connection of the front of your pelvis and legs with the floor.",
+            "Benefits":"Increases spine flexibility. Stretches the chest and abdominals while strengthening the spine and shoulders.",
+            "url_img":"https://pocketyoga.com/assets/images/full/cobra_full.png"
+        },
+        {
+            "pose_name":"Reverse Corpse",
+            "sanskrit_name":"Advasana ",
+            "Category":"Prone / Neutral",
+            "Difficulty":"Beginner",
+            "Description":"From a prone position, relax down onto your belly, legs extended straight back. Forehead and chin are centered allowing for a neutral neck and spine. Extend your arms overhead, palms facing down.",
+            "Benefits":"Relaxes the body.",
+            "url_img":"https://pocketyoga.com/assets/images/full/corpse_front_arms_forward.png"
+        },
+        {
+            "pose_name":"Frog",
+            "sanskrit_name":"Bhekasana ",
+            "Category":"Prone / Neutral",
+            "Difficulty":"Intermediate",
+            "Description":"From Bow (Preparation), lift your chest upward. Using your hands, press the soles of your feet down, heels closer to the hips. If possible, rotate your knuckles forward and elbows toward the sky. Press your shoulder blades to touch, and keep elongating the psoas and quadriceps by pressing your pubic bone down into the earth.",
+            "Benefits":"Stretches the chest, psoas, quadriceps and ankles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/frog_traditional.png"
+        },
+        {
+            "pose_name":"Locust I",
+            "sanskrit_name":"Shalabhasana A ",
+            "Category":"Prone / Backbend",
+            "Difficulty":"Intermediate",
+            "Description":"From a supine position lying on the belly (pad the floor below your pelvis and ribs with a folded blanket if needed) with the arms along the side body, palms facing up, lift the legs away from the floor until resting on the lower ribs, belly, and front pelvis with firm buttocks, energy extended through strong legs and active toes. The arms are engaged with the tops of the hands pressing down to the ground. Extend through your neck and take your eye gaze upwards. Avoid tilting the head back. Instead elongate the neck and the trapezius by engaging the latissimus dorsi muscle.",
+            "Benefits":"Strengthens muscles of spine, buttocks, and backs of the arms and legs. Stretches the shoulders, chest, belly, and thighs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/locust.png"
+        },
+        {
+            "pose_name":"Locust III",
+            "sanskrit_name":"Shalabhasana C",
+            "Category":"Prone / Backbend",
+            "Difficulty":"Intermediate",
+            "Description":"Begin lying on your belly with your arms extended overhead, like in Reverse Corpse. On the Inhale, lift your chest and your thighs off the ground and continue breathing. Extend energy through to your toes and your fingers. Bring your thighs and big toes to touch. Your neck is a natural extension of your spine and gaze is slightly forward.",
+            "Benefits":"Strengthens muscles of spine, buttocks, and backs of the arms and legs. Stretches the shoulders, chest, belly, and thighs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/locust_iii.png"
+        },
+        {
+            "pose_name":"Sage Gheranda's",
+            "sanskrit_name":"Gherandasana",
+            "Category":"Prone / Neutral",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Bow (Preparation). Rotate the knuckles of one hand so they face forward and the elbow is towards the sky. Bend the knee as much as possible bringing the knee and sole of the foot as close to the ground as possible. Extend the opposite leg straight into the sky. Lift the chest and take your gaze upwards. Repeat on the opposite side.",
+            "Benefits":"Stretches the entire front of the body, ankles, thighs and groins, abdomen and chest, and throat, and deep hip flexors (psoas). Strengthens the back muscles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/gheranda_i_L.png"
+        },
+        {
+            "pose_name":"Extended Puppy",
+            "sanskrit_name":"Uttana Shishosana ",
+            "Category":"Prone / Backbend",
+            "Difficulty":"Intermediate",
+            "Description":"The body is prone to the earth and the forehead, chest and/or chin rest on the earth with the arms extended out in front pressing downward for a deeper stretch. The hips are at a 90-degree angle to the knees and pulling back toward the heels. The shins and the top of the feet are extended and firm on the earth. (A blanket can be used under the chin to relax the neck if needed). There is a slight curve in the lower back and the gaze is forward.",
+            "Benefits":"Stretches the spine and shoulders.",
+            "url_img":"https://pocketyoga.com/assets/images/full/puppy_extended.png"
+        },
+        {
+            "pose_name":"Snake",
+            "sanskrit_name":"Sarpasana",
+            "Category":"Prone / Backbend",
+            "Difficulty":"Beginner",
+            "Description":"From a supine position on your belly, bring your forehead and chin to center. Take a chest expansion and interlace your fingers at the small of your back. Inhale, lift your chest as high as you can off the floor and draw your interlaced fingers upward and back. The legs stay engaged, thighs connected, big toes touching. The neck is a natural extension of your spine.",
+            "Benefits":"Strengthens muscles of spine, buttocks, and backs of the arms and legs. Stretches the shoulders, chest, belly, and thighs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/snake.png"
+        },
+        {
+            "pose_name":"Sphinx",
+            "sanskrit_name":"Salamba Bhujangasana ",
+            "Category":"Prone / Backbend",
+            "Difficulty":"Beginner",
+            "Description":"From a prone position with the pelvic bowl is firmly contracted interiorly toward the center line of the body while the pubis is tucked under. The legs are extended back and the tops of the feet are flat. The palms are flat and the elbows are on the mat, stacked right below the shoulders. On an inhalation, lift the sternum and extend the neck away from shoulders with the elbows, palms and pelvic bone firmly attached to the mat.",
+            "Benefits":"Strengthens the spine. Stretches the chest, the lungs, the shoulders and the abdomen. Stimulates the abdominal organs. Opens the heart and the lungs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/sphinx.png"
+        },
+        {
+            "pose_name":"Tortoise",
+            "sanskrit_name":"Kurmasana",
+            "Category":"Prone / Forward Bend",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in a seated position with your legs straight in front of you and your hands on the floor alongside your hips. Press your thighs into the floor, flex your feet, and lift your chest. Bring your legs to the edges of the mat, with your knees as wide as your shoulders. Bend your knees, and keeping your feet flexed, bring them closer to your hips. Extend your chest and arms forward and down between your legs. Bend your legs even more, so that you can put your shoulders one by one under your knees. Once there, stretch your arms out to the sides. Roll your thighs inward and extend your inner heels, without creating tension in the feet. Spread the front of your chest and collarbones forward and down with the help of the pressure of your thighs on the shoulders or upper arms. Push your inner heels down and forward to stretch and straighten your legs. Your inner thighs should remain in contact with your side ribs.",
+            "Benefits":"Stretches the insides and backs of the legs and the groin. Stretches the shoulders. Strengthens the back and abdominal muscles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/supine_tortoise.png"
+        }
+    ],
+    "Arm & Leg Support":[
+        {
+            "pose_name":"Box",
+            "sanskrit_name":"Chakravakasana",
+            "Category":"Arm Leg Support / Neutral",
+            "Difficulty":"Beginner",
+            "Description":"From a kneeling position, the knees and arms form a box with the spine and neck in a neutral position. The hips and shoulders are squared to the earth and the palms are rooted with the weight of the body equally distributed between the heel of the hands and the top of the knees. The joints are stacked with the wrists, elbows and shoulders in a straight line. The gaze is down.",
+            "Benefits":"Increases abdominal strength. Warms up the joints, muscles of arms and the legs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/box_neutral.png"
+        },
+        {
+            "pose_name":"Camel",
+            "sanskrit_name":"Ushtrasana",
+            "Category":"Arm Leg Support / Backbend",
+            "Difficulty":"Intermediate",
+            "Description":"From a kneeling position the knees are hip width apart and the thighs are perpendicular to the earth. The inner thighs are narrowed and rotated slightly inward with the buttocks engaged but not hardened. The tailbone is tucked under but the hips do not puff forward. The shins and tops of the feet are pressed firmly into the earth. The ribcage is open, along with the heart center, but the lower front ribs do not protrude sharply toward the sky. The lower back lifts the ribs away from the pelvis to keep the lower spine as long as possible. The base of the palms are pressed firmly against the soles (or heels) of the feet and the fingers are pointed toward the toes. The arms are extended straight and are turned slightly outward at the shoulder joint so the elbow creases face forward without squeezing the shoulder blades together. The neck is in a relatively neutral position, neither flexed nor extended, or (for the advanced practitioners only) the head drops back. Be careful not to strain your neck and harden your throat. The gaze is either toward the sky or toward the earth, depending upon your flexibility.",
+            "Benefits":"Stretches the entire front of the body, the ankles, thighs and groins, abdomen and chest, and throat. Stretches the deep hip flexors (psoas). Strengthens back muscles. Improves posture. Stimulates the organs of the abdomen and neck.",
+            "url_img":"https://pocketyoga.com/assets/images/full/camel.png"
+        },
+        {
+            "pose_name":"Cat",
+            "sanskrit_name":"Marjariasana",
+            "Category":"Arm Leg Support / Forward Bend",
+            "Difficulty":"Beginner",
+            "Description":"From Box, shift some weight to the palms. The wrists, elbows and shoulders are in one line. The abdomen is pulled in and up with the spine arched in a strong Cobra spine. The crown of the head is toward the earth and the neck is relaxed. The gaze is between the arms toward the belly.",
+            "Benefits":"Relieves the spine and neck. Energizes the body.",
+            "url_img":"https://pocketyoga.com/assets/images/full/cat.png"
+        },
+        {
+            "pose_name":"Cow",
+            "sanskrit_name":"Bitilasana ",
+            "Category":"Arm Leg Support / Backbend",
+            "Difficulty":"Beginner",
+            "Description":"From Box, the ribcage is lifted with a gentle sway in the low back. The tailbone lifts up into dog tilt. The eyes are soft and the gaze is to the sky.",
+            "Benefits":"Removes fatigue. Improves breathing and the circulation of blood to the brain. Rejuvenates the entire body.            ",
+            "url_img":"https://pocketyoga.com/assets/images/full/dog.png"
+        },
+        {
+            "pose_name":"Dolphin",
+            "sanskrit_name":"Ardha Pincha Mayurasana",
+            "Category":"Arm Leg Support / Forward Bend",
+            "Difficulty":"Intermediate",
+            "Description":"From Downward-Facing Dog, the forearms are planted onto the earth with the elbows narrow and the palms down in a Sphinx position. The pelvis is tucked. The ribcage lifted. The feet are rooted and the legs are straight with the tailbone in dog tilt. The gaze is down and slightly forward",
+            "Benefits":"Calms the brain and helps relieve stress and mild depression. Energizes the body. Stretches the shoulders, hamstrings, calves, arches, and hands. Strengthens the arms and legs. Helps relieve the symptoms of menopause. Relieves menstrual discomfort when done with the head supported. Helps prevent osteoporosis. Improves digestion. Relieves headache, insomnia, back pain, and fatigue. Therapeutic for high blood pressure, asthma, flat feet, sciatica, and sinusitis. Warms up the ankles and the toes.",
+            "url_img":"https://pocketyoga.com/assets/images/full/dolphin.png"
+        },
+        {
+            "pose_name":"Downward-Facing Dog",
+            "sanskrit_name":"Adho Mukha Shvanasana",
+            "Category":"Arm Leg Support / Forward Bend",
+            "Difficulty":"Beginner",
+            "Description":"The body is positioned in an inverted V with the palms and feet rooted into the earth and sits bones lifted up toward the sky. The arms and legs are straight. The weight of the body is equally distributed between the hands and the feet. The eye of the elbows face forward. The ribcage is lifted and the heart is open. Shoulders are squared to the earth and rotated back, down and inward. The neck is relaxed and the crown of the head is toward the earth. The gaze is down and slightly forward.",
+            "Benefits":"Calms the brain and helps relieve stress and mild depression. Energizes the body. Stretches the shoulders, hamstrings, calves, arches, and hands. Strengthens the arms and legs. Helps relieve the symptoms of menopause. Relieves menstrual discomfort when done with the head supported. Helps prevent osteoporosis. Improves digestion. Relieves headache, insomnia, back pain, and fatigue. Therapeutic for high blood pressure, asthma, flat feet, sciatica, and sinusitis. Warms up the ankles and the toes.",
+            "url_img":"https://pocketyoga.com/assets/images/full/downward_dog.png"
+        },
+        {
+            "pose_name":"Eight Point",
+            "sanskrit_name":"Ashtangasana",
+            "Category":"Arm Leg Support / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in Box position on hand and knees. Shift your shoulders and heart forward beyond your fingertips and lower just your chest and chin to the ground. Keep your elbows narrow and in at your side with your tailbone lifting toward the sky. Press down firmly through your palms and fingertips, keeping your shoulder heads lifted as you continue to soften the place between your shoulder blades.",
+            "Benefits":"Stretches the neck and shoulders and lengthens and realigns the spine. It also strengthens the arms and upper body.",
+            "url_img":"https://pocketyoga.com/assets/images/full/eight_point.png"
+        },
+        {
+            "pose_name":"Humble Flamingo",
+            "sanskrit_name":"",
+            "Category":"Arm Leg Support / Forward Bend",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Pyramid with Arms Extended and walk your hands back, away from your front foot, spin your fingertips backward and come up onto your fingertips. Keep your arms straight and your torso long, connected to your front leg. Engage your triceps, transfer as much weight into your fingertips and front heel, and then lift your back heel off the ground and bend your knee. Bring the heel of your bent knee in towards your glutes. All the weight is in your front heel and fingertips.",
+            "Benefits":"Stretches the spine, the hips and the hamstrings. Strengthens the legs, arms and core.            ",
+            "url_img":"https://pocketyoga.com/assets/images/full/flamingo_humble_L.png"
+        },
+
+        {
+            "pose_name":"Gate",
+            "sanskrit_name":"Parighasana ",
+            "Category":"Arm Leg Support / Lateral Bend",
+            "Difficulty":"Beginner",
+            "Description":"Begin in a kneeling position with your hips stacked over your knees. Extend one leg out to the side. Reach your arms overhead to create length and then extend your arms to the side towards your extended leg. Allow your bottom hand to rest softly on your extended leg while you stabilize your core to extend through the opposite side. Turn your torso upward and externally rotate your extended leg and toes.",
+            "Benefits":"Stretches your side body, abdominals, spine, inner thighs, and hamstrings.",
+            "url_img":"https://pocketyoga.com/assets/images/full/gate_R.png"
+        },
+        {
+            "pose_name":"Horse",
+            "sanskrit_name":"Vatayanasana",
+            "Category":"Arm Leg Support / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in Standing Half Lotus. Hinge forward and bring the knee of your half lotus down to the ground and turn your opposite foot slightly outward and in front of the knee. Externally rotate the hip above your grounded foot and keep your heel directly in front of your half lotus knee. Bring your chest up and look forward for balance. Bring your arms to Eagle position. The arm on top corresponds with the leg that is in lotus position. Tuck your tailbone as you lift your chest up and forward. Maintain your eagle arms by lifting them up and away from your chest. Repeat on the opposite side.",
+            "Benefits":"Improves posture and balance. Increases flexibility in the shoulders, hip joints, knees, and ankles. Strengthens the abdominal muscles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/horse_R.png"
+        },
+        {
+            "pose_name":"Lizard",
+            "sanskrit_name":"Uttana Pristhasana",
+            "Category":"Arm Leg Support / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in Box or Downward-Facing Dog. Step one foot forward to the outside edge of the same side hand. Both arms should be on the inside of your front bent knee. Keep your front knee stacked over your ankle. Stay on the ball of your back foot, extend it back as far as possible and actively keep your quadriceps engaged by drawing your kneecap up. Distribute your weight evenly among both of your hips. If you feel comfortable, lower down onto both forearms. Keep your chin lifted and your chest open.",
+            "Benefits":"Stretches the hip flexors, hamstrings, and quadriceps. Improves flexibility in hip ligaments and strengthens muscles in your legs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/lizard_L.png"
+        },
+        {
+            "pose_name":"Lunge",
+            "sanskrit_name":"",
+            "Category":"Arm Leg Support / Balancing",
+            "Difficulty":"Beginner",
+            "Description":"The weight of the body is supported on the front foot and the back toes. The front knee is bent directly above the ankle in a 90-degree angle to the ankle. The back heel is pressed to the back. The inner thighs scissor toward each other and the hips are squared. The ribcage is lifted and the heart is open. The fingertips straddle the front leg and rest softly on the earth for balance. You may use a block if necessary to keep the proper alignment. The gaze is down and slightly forward.",
+            "Benefits":"Creates flexible strength. Promotes stability in the front and back of the torso. Tones the lower body.",
+            "url_img":"https://pocketyoga.com/assets/images/full/lunge_L.png"
+        },
+
+        {
+            "pose_name":"Crooked Monkey",
+            "sanskrit_name":"",
+            "Category":"Arm Leg Support / Twist",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in a low lunge with both hands on the inside of your front foot and bent knee. Drop your back knee to the ground, send it back further and hinge forward slightly to open your hip flexor. Pivot your top foot to the corner at about a 45-degree angle. Flex and firm up your top foot and ankle then allow your front bent knee to rotate outward. Ground your outside palm to the mat. Bend your back knee, reach around with your free hand to catch your foot or ankle and externally rotate your shoulder. Ensure the weight is on top of your knee and not directly on your knee cap. Allow your spine to twist and your chest to rotate upward, broadening your collar bone.",
+            "Benefits":"Opens and lengthens the hip flexors, quadriceps and thoracic spine. Strengthens the arms.",
+            "url_img":"https://pocketyoga.com/assets/images/full/crooked_monkey_R.png"
+        },
+        {
+            "pose_name":"Pigeon",
+            "sanskrit_name":"Kapotasana ",
+            "Category":"Arm Leg Support / Backbend",
+            "Difficulty":"Advanced",
+            "Description":"The body is in an arched supine position with the hips and the ribcage lifted, the knees and the elbows are bent, the forearms and the shins are supporting the weight of the body and the crown of the head is softly resting on the earth. The palms are either resting on the feet or are hooked around the heels (depending on flexibility). The weight of the body is distributed equally between the forearms and the shins as the pelvis presses up and the ribcage lifts. The tailbone lengthens toward the knees and the sternum lifts up in the opposite direction creating a gentle arch in the back of the body. The gaze is out in front or down to the earth, depending on flexibility.",
+            "Benefits":"Stretches the entire front of the body, the ankles, thighs and groins, abdomen and chest, and throat. Stretches the deep hip flexors (psoas). Strengthens the back muscles. Improves posture. Stimulates the organs of the abdomen and neck.",
+            "url_img":"https://pocketyoga.com/assets/images/full/pigeon.png"
+        },
+
+        {
+            "pose_name":"Plank",
+            "sanskrit_name":"Phalakasana",
+            "Category":"Arm Leg Support / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"The body is parallel to the earth. The weight of the body is supported by straight arms and active toes. The abdomen is pulled up toward the spine and the pelvis is tucked in. The neck is a natural extension of the spine and the chin is slightly tucked. The palms are flat and the elbows are close to the side body. The joints are stacked with the wrists, elbows and shoulders in a straight line perpendicular to the earth. The gaze follows the spine and the eyes are focused down",
+            "Benefits":"Strengthens the arms, wrists, and spine. Tones the abdomen.",
+            "url_img":"https://pocketyoga.com/assets/images/full/plank.png"
+        },{
+            "pose_name":"Upward Plank",
+            "sanskrit_name":"Purvottanasana",
+            "Category":"Arm Leg Support / Backbend",
+            "Difficulty":"Beginner",
+            "Description":"From a seated position place the hands on the floor about one foot behind the hips with the fingertips pointed forward toward the hips. On an inhale press through the hands and feet to lift the hips as high as possible. Keep the inner line of the feet together and seal them into the mat as much as possible. Relax the head back and gaze at the tip of your nose.",
+            "Benefits":"Strengthens the arms, the wrists, and the legs. Stretches the shoulders, the chest, and the front ankles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/plank_upward.png"
+        },
+        {
+            "pose_name":"Low Push-up",
+            "sanskrit_name":"Chaturanga Dandasana",
+            "Category":"Arm Leg Support / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"From a prone position, the weight of the body is supported on the hands and the toes. The body is approximately 5 inches above and parallel to the earth. The abdomen is pulled up toward the spine. The pelvis is tucked. The palms are flat. The elbows are close to the side body and bent in a 90-degree angle and inline with the wrists. The toes are rooted into the earth as the heels push back. The gaze is down.",
+            "Benefits":"Strengthens the arms and wrists. Tones the abdomens.",
+            "url_img":"https://pocketyoga.com/assets/images/full/four_limbed_staff.png"
+        },
+        {
+            "pose_name":"Rabbit",
+            "sanskrit_name":"Shashankasana ",
+            "Category":"Arm Leg Support / Forward Bend",
+            "Difficulty":"Beginner",
+            "Description":"From Child's pose, rest the torso onto the thighs and the forehead onto the earth. Walk the knees up to meet the forehead, shifting some weight to the crown of the head. Find the maximum comfortable neck stretch and then reach back and grip the base of the feet (use a strap if necessary). To increase the stretch and come into the full expression of the pose, gradually lift or elevate your hips. Be sure to keep your forehead as close as possible to your knees and the topmost part of your skull (crown of the head) on the earth. Contract your abdominal muscles and gaze at your ankles.",
+            "Benefits":"Maintains the mobility and elasticity of spine. Nurtures the nervous system and helps with depression. Improves digestion. Helps cure sinus problems, colds and chronic tonsillitis. Strengthens and firms the abdomen. Stretches the back muscles. Removes the tension from the upper back and the neck. Improves posture. Stimulates the thymus gland, improving the function of the immune system.",
+            "url_img":"https://pocketyoga.com/assets/images/full/rabbit.png"
+        },
+        {
+            "pose_name":"Sage Visvamitra's",
+            "sanskrit_name":"Vishvamitrasana ",
+            "Category":"Arm Leg Support / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Lizard with Straight Arms and place your inside shoulder underneath your front thigh. Curl up your back toes and pivot your foot down as if in a Warrior pose. Ground the palm that is rooted under your front thigh, walk your front foot slightly to the opposite site to get the shoulder deep under your thigh. Begin to shift your weight back slightly. Bend your knee slightly to lift your foot off the ground and then straighten your leg. Ground down firmly to the outer edge of your back foot and your front palm. Roll your chest toward the sky and allow your gaze to follow.            ",
+            "Benefits":"Opens the side waist and torso. Strengthens the upper body, wrists, and legs. Stretches the outer hips and glutes.",
+            "url_img":"https://pocketyoga.com/assets/images/full/visvamitra_full_L.png"
+        },
+        {
+            "pose_name":"Side Plank",
+            "sanskrit_name":"Vasishthasana",
+            "Category":"Arm Leg Support / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"From an arm balance position the weight of the body is supported on one side and distributed equally between the bottom arm and foot while the other (top) arm lifts with fingers spread wide and the other (top) foot stacks on top. The grounded (bottom) foot is flat and gripping the earth from the outside edge of the foot. If flexibility of the foot is limited then instead of gripping the earth with a flat foot, the weight of the body is balanced on the side edge of the foot that is flexed instead of flat. The arm supporting the weight of the body and the grounded foot actively press into the floor as the shoulder blades firm against the back and then widen away from the spine drawing toward the tailbone. Bandhas are engaged to maintain balance and stability. The crown of the head reaches away from the neck and the gaze is up toward the hand.",
+            "Benefits":"Calms the brain and helps relieve stress and mild depression. Stretches the shoulders, hamstrings, calves, and arches. Strengthens the arms and legs. Helps relieve the symptoms of menopause. Helps prevent osteoporosis. Improves digestion. Relieves headache, insomnia, back pain, and fatigue. Therapeutic for high blood pressure, asthma, flat feet, sciatica.",
+            "url_img":"https://pocketyoga.com/assets/images/full/plank_side_R.png"
+        },
+        {
+            "pose_name":"Inverted Staff",
+            "sanskrit_name":"Dvi Pada Viparita Dandasana",
+            "Category":"Arm Leg Support / Backbend",
+            "Difficulty":"Advanced",
+            "Description":"From Half Wheel, draw the elbows to the floor shoulder-distance apart and interlace the fingers around the head as in Supported Headstand. Press firmly into the forearms and lift the head off the floor, extend the legs straight, draw the feet together and energize down through the legs and feet.",
+            "Benefits":"Stretches the entire front body and opens the chest. Tones the internal organs. Revitalizes the central nervous system.",
+            "url_img":"https://pocketyoga.com/assets/images/full/staff_inverted.png"
+        },
+        {
+            "pose_name":"Little Thunderbolt",
+            "sanskrit_name":"Laghu Vajrasana",
+            "Category":"Arm Leg Support / Backbend",
+            "Difficulty":"Advanced",
+            "Description":"Come into your Camel and drop to your Pigeon, all the way to your forearms and the crown of your head. Distribute the weight equally between your forearms and shins. Press your pelvis and ribcage upward. Walk your hands as far forward as possible to catch your ankles, calves or the front of your thighs.",
+            "Benefits":"Stretches the entire front of the body, the ankles, thighs and groins, abdomen and chest, and throat. Stretches the deep hip flexors (psoas). Strengthens the back muscles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/little_thunderbolt.png"
+        },
+        {
+            "pose_name":"Tiger",
+            "sanskrit_name":"Vyaghrasana",
+            "Category":"Arm Leg Support / Backbend",
+            "Difficulty":"Beginner",
+            "Description":"Come into One Legged Table. Bend your floating knee and reach your heel upward and toward your head. Keep your hips at the same level. Find a gentle backbend and draw your navel towards your spine. Palms flat, arms straight and shoulders over wrists.",
+            "Benefits":"Tones and strengthens the arms, belly and legs. Improves flexibility and opens the hips.",
+            "url_img":"https://pocketyoga.com/assets/images/full/tiger_L.png"
+        },
+        {
+            "pose_name":"Upward-Facing Dog",
+            "sanskrit_name":"Urdhva Mukha Shvanasana ",
+            "Category":"Arm Leg Support / Backbend",
+            "Difficulty":"Intermediate",
+            "Description":"The body is in a prone position parallel to the earth. The weight of the body is supported equally by the straight arms and the tops of the feet which press firmly into the earth. The shoulders are rotated back and down. The ribcage is lifted and pulled through to the front in a slight upper thoracic backbend. The joints are stacked with the wrists, elbows and shoulders in a straight-line. The neck is a natural extension of the spine and the chin is slightly tucked. The abdomen is pulled up toward the spine. The palms are flat and the elbows are close to the side body. The gaze is forward.",
+            "Benefits":"Improves posture. Strengthens the spine, arms, and wrists. Stretches the chest, lungs, shoulders, and abdomen. Firms the buttocks. Stimulates abdominal organs. Helps relieve mild depression, fatigue, and sciatica. Therapeutic for asthma.",
+            "url_img":"https://pocketyoga.com/assets/images/full/upward_dog.png"
+        },
+        {
+            "pose_name":"Wheel",
+            "sanskrit_name":"Urdhva Dhanurasana ",
+            "Category":"Arm Leg Support / Backbend",
+            "Difficulty":"Advanced",
+            "Description":"Pressed up from a supine position, lying on your back, the palms are rooted into the earth with the fingers pointed toward the heels. The feet are grounded. The hips are pressed up. The thighs are rotated inward. The thoracic spine is arched creating a strong crescent arch along the spinal column. The gaze is forward.",
+            "Benefits":"Strengthens the arms, wrists, legs, buttocks, abs, and spine. Stimulates the thyroid and pituitary. Increases energy and counteracts depression. Therapeutic for asthma, back pain, infertility, and osteoporosis.",
+            "url_img":"https://pocketyoga.com/assets/images/full/wheel.png"
+        },
+        {
+            "pose_name":"Wild Thing",
+            "sanskrit_name":"Chamatkarasana",
+            "Category":"Arm Leg Support / Backbend",
+            "Difficulty":"Intermediate",
+            "Description":"From Downward-Facing Dog pose, elevate one leg toward the sky and stack the corresponding hip over the other hip. Bring the upper heel as close to the buttocks as possible. The hips remain stacked; then bring the shoulders forward slowly over the hands. Replace the corresponding hand to the upraised leg with the other hand and flip yourself over and extend the top hand forward. The bottom foot is now facing toward the front of the mat and you remain on the ball of the top foot and the corresponding knee is bent. Continue to lift hips up toward the sky and continue reaching the free hand toward the front of the room and slightly downwards. Allow the head to curl back.",
+            "Benefits":"Stretches the chest, shoulders, back, and throat. Strengthens and opens the hips, hip flexors, and thighs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/wild_thing_R.png"
+        }
+    ],
+    "Arm Balance & Inversion":[
+        {
+            "pose_name":"Both Feet Behind the Head II",
+            "sanskrit_name":"Dvi Pada Shirshasana B ",
+            "Category":"Arm Balance And Inversion / Neutral",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Both Feet Behind the Head I. Release your palms to the ground and place them alongside your hips. Ground down into your palms, hinge slightly forward, straighten your arms and lift your hips. Maintain a long spine and keep your chin lifted off your chest so the ankles stay secure.",
+            "Benefits":"Strengthens the core and arms. Stretches the spine, hips and hamstrings.",
+            "url_img":"https://pocketyoga.com/assets/images/full/foot_behind_head_two_legged_elevated.png"
+        },
+        {
+            "pose_name":"Chin Stand",
+            "sanskrit_name":"Ganda Bherundasana",
+            "Category":"Arm Balance And Inversion / Backbend",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Box. Lift one leg in the air. Curl your toes of the grounded leg. Bend your elbows into a strong, narrow push-up position. Drop your chin, the front of your shoulders and chest to the ground and begin to straighten your bottom leg to send your hips higher at the same time. Lift off by taking a tiny hop with your bottom leg. As your bottom leg lifts to meet the top, bring both straight legs together in the air and squeeze your thighs together. Keep a small arch in your back.",
+            "Benefits":"Strengthens back, hips, pelvis and legs. Improves balance and flexibility of the back.",
+            "url_img":"https://pocketyoga.com/assets/images/full/chin_stand.png"
+        },
+        {
+            "pose_name":"Crane",
+            "sanskrit_name":"Bakasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"Come to a squatting position with both feet together. Separate your knees but keep your feet together. Spread your fingers wide and press your palms and fingertips into the mat. Come up high on your toes and lift your hips as high as possible. Keeping straight arms, place your knees up into your arm pits, engage your core and begin to hinge forward. Once your toes lift off the ground, find your balance and pull your heels up close to your sit bones. Keep your chin lifted and gaze slightly forward on the ground",
+            "Benefits":"Strengthens forearms, wrists, shoulders, upper back and abdominal muscles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/crane.png"
+        },
+        {
+            "pose_name":"Crow",
+            "sanskrit_name":"Kakasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"Come to a squatting position with both feet together. Separate your knees but keep your feet together. Spread your fingers wide and press your palms and fingertips into the mat. Come up high on your toes and lift your hips as high as possible. As you shift the weight of your body slightly forward, bend your arms and place your knees on top of your elbows. Continue shifting forward until your toes lift up and the full weight of the body is on your arms. The gaze is down and slightly forward.",
+            "Benefits":"Strengthens forearms, wrists, shoulders, upper back and abdominal muscles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/crow.png"
+        },
+
+        {
+            "pose_name":"Deaf Man's",
+            "sanskrit_name":"Karnapidasana ",
+            "Category":"Arm Balance And Inversion / Forward Bend",
+            "Difficulty":"Advanced",
+            "Description":"From a supine position, the feet come over the head and rest on the earth with the knees next to the ears and the arms extended behind the body with the fingers interlaced. The neck is flat on the earth. The eyes are closed. The gaze is inward. Take three big gulps to stimulate the thyroid.",
+            "Benefits":"Creates a deep release and internal balance.",
+            "url_img":"https://pocketyoga.com/assets/images/full/deaf_man.png"
+        },
+
+        {
+            "pose_name":"Eight Angle",
+            "sanskrit_name":"Ashtavakrasana ",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Easy pose, lift one knee up and make a shelf with the respective arm. Slip the shoulder underneath this knee until the knee rests high up on the back of the shoulder. Bend both elbows to a 90-degree angle and lean forward. Bring the other foot over to meet the first and hook the feet. Lean slightly toward the opposite side to place more weight on the corresponding side and begin to lift both feet off the ground. Extend both legs simultaneously leaning your torso forward and lowering it until it is parallel to the mat. Squeeze your upper arm between your thighs. Use that pressure to help twist your torso to the opposite side. Keep your elbows in close to the torso. Gaze is toward the ground.",
+            "Benefits":"Strengthens arms, legs, core and wrists. Improves balance.",
+            "url_img":"https://pocketyoga.com/assets/images/full/eight_angle_R.png"
+        },
+        {
+            "pose_name":"Flying Man",
+            "sanskrit_name":"Eka Pada Koundinyasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"From a lunge position, the palms are rooted into the earth on the inside of the thigh. Both elbows are bent in a 90-degree angle with one leg forward, extended and resting softly on the elbow. The other leg is extended back either balanced on the toes or suspended in flight with active toes. The Body is parallel to the earth. The gaze is to the front.",
+            "Benefits":"Strengthens arms, legs, core and wrists. Improves balance.",
+            "url_img":"https://pocketyoga.com/assets/images/full/lunge_hands_on_mat_flying_R.png"
+        },
+        {
+            "pose_name":"Floating Stick",
+            "sanskrit_name":"Brahmacharyasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in a seated position with your legs straight and place your hands on the ground at mid-thigh. Spread your fingers wide and actively ground your hands down. Seal your legs together and energize your legs to your toes. Hinge your chest slightly forward, engage your core and lift your hips up. Straighten your arms and maintain your core engagement. Shift your hips back slightly through your arms to find your center of gravity.",
+            "Benefits":"Improves balance. Strengthens the entire core, arms and legs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/floating_stick.png"
+        },
+        {
+            "pose_name":"Firefly",
+            "sanskrit_name":"Tittibhasana ",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"The arms are straight and the palms are pressed into the earth. The body is supported on the straight arms with the eye of the elbows to the front. The legs are extended straight and forward from on the outside of the arms. The ribcage is lifted. The gaze is forward.",
+            "Benefits":"Strengthens arms and wrists. Improves focus and concentration. Opens flexibility of lower body.",
+            "url_img":"https://pocketyoga.com/assets/images/full/firefly.png"
+        },
+        {
+            "pose_name":"Embryo",
+            "sanskrit_name":"Pindasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Supported Shoulder Stand. Without dropping your hips and with or without using your hands, bring your legs into Lotus legs in the sky. Keep broadening your neck to maintain a proud base. Balancing on your shoulders and neck, bring your Lotus legs toward your chest. Wrap your arms around the outside of your legs and clasp your hands together. Move your knees down on either side of your head and softly curl into an embryo shape.",
+            "Benefits":"Improves flexibility of hips, knees, ankles. Strengthens spine and back muscles and improves balance.",
+            "url_img":"https://pocketyoga.com/assets/images/full/embryo.png"
+        },
+        {
+            "pose_name":"Elephant Trunk",
+            "sanskrit_name":"Eka Hasta Bhujasana",
+            "Category":"Arm Balance And Inversion / Neutral",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in Rock the Baby by bringing the knee and foot into the creases of your elbows. Release your foot, keep it lifted and send it forward. At the same time, thread the arm that is closest to your knee thru to create a trunk with the leg as high up on your shoulder as possible. Ground your palms evenly in line with your shoulders and sit up straight. Energize through your straight leg. Hinge your chest forward slightly for leverage, press into your palms, straighten your arms, engage your core and lift your body off the ground. Hold for a few breaths and repeat on the opposite side.",
+            "Benefits":"Improves balance. Stretches the hips. Strengthens the entire core, arms and legs.",
+            "url_img":"https://pocketyoga.com/assets/images/full/elephant_trunk_R.png"
+        },
+        {
+            "pose_name":"Elbow Balance",
+            "sanskrit_name":"Shayanasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"Start in your Forearm Balance. Press your forearms firmly into the ground and engage your core. Shift your weight slightly to move your legs past your head then shift more weight towards your elbows. Lift one hand from the ground and bring it to your chin. If stable, bring the opposite hand to your chin for full balance.",
+            "Benefits":"Improves focus and balance. Stretches the shoulders and armpits. Strengthens the abdominal muscles and shoulders.",
+            "url_img":"https://pocketyoga.com/assets/images/full/relaxed_stance.png"
+        },
+        {
+            "pose_name":"Revolved Flying Man",
+            "sanskrit_name":"Parivritta Eka Pada Koundinyasana ",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"Starting from Downward-Facing Dog pose, bend both elbows to a 90-degree angle then cross one leg over the opposite elbow and extend the leg. The other leg is extended back either balanced on the toes or suspended in flight with active toes. The body is parallel to the earth. The gaze is to the front.",
+            "Benefits":"Strengthens arms, legs, core and wrists. Improves balance.",
+            "url_img":"https://pocketyoga.com/assets/images/full/flying_man_revolved_R.png"
+        },
+        {
+            "pose_name":"Forearm Balance",
+            "sanskrit_name":"Pincha Mayurasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"From an inverted position, with the body perpendicular to the earth, the weight of the body is supported on the forearms that are parallel and pressed firmly into the earth. The palms are flat. The knuckles are evenly pressed into the earth. The fingers are spread wide. Both legs reach up toward the sky in a straight line with the pelvis tucked. The ribcage is lifted. The gaze is forward.",
+            "Benefits":"Strengthens arms and shoulders. Improves focus and balance. Stretches the upper and lower back. Strengthens the abdominal muscles. Tones the abdominal area.",
+            "url_img":"https://pocketyoga.com/assets/images/full/feathered_peacock.png"
+        },
+        {
+            "pose_name":"Grasshopper",
+            "sanskrit_name":"Maksikanagasana",
+            "Category":"Arm Balance And Inversion / Twist",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Revolved Figure Four. Sit a little deeper and be sure you have a strong side twist with the upper part of your arm connected to the sole of your flexed foot. Stay in your figure four twist as you drop your hands flat to the ground. Bend your elbows to about 90 degrees and shift your weight forward to lift the back foot off the floor. Try to straighten your floating leg forward and gaze to the toes of your floating leg.",
+            "Benefits":"Opens the hip and strengthens the core and arms. Stretches the hamstring.",
+            "url_img":"https://pocketyoga.com/assets/images/full/grasshopper_L.png"
+        },
+        {
+            "pose_name":"Handstand",
+            "sanskrit_name":"Adho Mukha Vrikshasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"In this inverted posture the weight of the body is on the hands - shoulder-width apart with fingers forward and parallel to each other (if the shoulders are tight, the index fingers are turned out slightly). The shoulder blades are firm against the back torso and pulled up toward the tailbone. The upper arms are rotated outward with the eye of the elbow to the front to keep the shoulder blades broad while the outer arms hug inward in opposing forces for balance and stability. The palms are spread and the bases of the index fingers are pressed firmly against the earth. Balance is maintained by keeping the Bandhas engaged while pressing the earth away with straight arms and flexed feet. The gaze is down and forward.",
+            "Benefits":"Strengthens the shoulders, arms and wrists. Stretches the belly. Improves sense of balance. Calms the brain and helps relieve stress and mild depression",
+            "url_img":"https://pocketyoga.com/assets/images/full/handstand.png"
+        },
+        {
+            "pose_name":"Supported Headstand",
+            "sanskrit_name":"Salamba Shirshasana A ",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"In this inverted posture, the weight of the body is evenly balanced on the forearms that are narrow. The fingers are interlaced (pinky fingers spooning). The crown of the head is resting softly on the earth (only to regulate balance) between the interlaced fingers hugging the head in order to stabilize and protect the neck. The shoulder blades are pressed against the back to widen the back as the tailbone continues to lift upward toward the heels. The gaze is straight.",
+            "Benefits":"Calms the brain and helps relieve stress and mild depression. Stimulates the pituitary and pineal glands. Strengthens the arms, legs, and spine. Strengthens the lungs. Tones the abdominal organs. Improves digestion. Helps relieve the symptoms of menopause. Therapeutic for asthma, infertility, insomnia, and sinusitis.",
+            "url_img":"https://pocketyoga.com/assets/images/full/headstand_supported.png"
+        },
+        {
+            "pose_name":"Tripod Headstand",
+            "sanskrit_name":"Mukta Hasta Shirshasana A ",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"The body is inverted and perpendicular to the earth with the legs extended up. The weight of the body is balanced between the crown of the head and the palms of the hands with the elbows bent in a 90-degree angle and the fingers forward. The head and hands are spaced equally forming an equilateral triangle. The neck is a natural extension of the spine. The chin is tucked slightly in toward the sternum. The toes are active and feet reach straight up toward the sky. The gaze is straight.",
+            "Benefits":"Calms the brain and helps relieve stress and mild depression. Stimulates the pituitary and pineal glands. Strengthens the arms, legs, and spine. Strengthens the lungs. Tones the abdominal organs. Improves digestion. Helps relieve the symptoms of menopause. Therapeutic for asthma, infertility, insomnia, and sinusitis.",
+            "url_img":"https://pocketyoga.com/assets/images/full/headstand_tripod.png"
+        },
+        {
+            "pose_name":"Flying Pigeon",
+            "sanskrit_name":"Eka Pada Galavasana",
+            "Category":"Arm Balance And Inversion / Neutral",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Tree with Arms Up pose, standing on one leg. Release the foot from the inner thigh and place the ankle above the opposite knee. Bend the standing knee and fold forward, bringing the palms to the floor. Bend the elbows to about 90 degrees and hook the toes of the foot on the opposite upper arm. Bring the weight of the body forward as the standing foot comes off. Start to straighten the leg behind.",
+            "Benefits":"Strengthens the abdominal muscles and arms. Stretches the hamstrings.",
+            "url_img":"https://pocketyoga.com/assets/images/full/pigeon_flying_L.png"
+        },
+        {
+            "pose_name":"Pendant",
+            "sanskrit_name":"Lolasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in a seated position. Cross your shins and hinge forward. Place the left sole of your foot beneath your right buttock and the right sole of your foot beneath your left buttock so that your right shin is in front of your left calf. Place your palms on the ground slightly in front of your hips, engage your core and lift up. Keep your thighs close to your chest, straighten your arms and point your toes.",
+            "Benefits":"Strengthens the core and arms.",
+            "url_img":"https://pocketyoga.com/assets/images/full/pendant.png"
+        },{
+            "pose_name":"Peacock",
+            "sanskrit_name":"Mayurasana ",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"Begin in a kneeling position with the toes curled and knees wide. Bring your elbows close together in front of your ribs or upper belly, above the navel, forearms facing up. Lean forward and place both hands down to the ground with the fingertips facing back. Create a shelf for your body using your upper arms and send your chest forward. Walk your legs back slightly and begin to lift your knees off the ground. Knees can stay bent. Once you feel balanced, extend your legs straight back into the full variation of the pose.",
+            "Benefits":"Strengthens your core, chest, arms, and thighs. Stretches and strengthens the wrists.",
+            "url_img":"https://pocketyoga.com/assets/images/full/peacock.png"
+        },
+        {
+            "pose_name":"Moon Bird",
+            "sanskrit_name":"Eka Pada Shirshasana C ",
+            "Category":"Arm Balance And Inversion / Neutral",
+            "Difficulty":"Advanced",
+            "Description":"Begin in Foot Behind the Head I. Ground your palms by your hips. Press into your palms, straighten your arms and lift your hips off the ground. Extend through your straight leg and using your core, bring it to about 60 to 75 degrees from the ground towards your chin.",
+            "Benefits":"Strengthens the core and arms. Stretches the spine, hips and hamstrings.",
+            "url_img":"https://pocketyoga.com/assets/images/full/foot_behind_head_elevated_R.png"
+        },
+        {
+            "pose_name":"Flying Lizard",
+            "sanskrit_name":"",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"Come into your Lizard with Straight Arms and stay on your back toes. Bend your elbows into Chaturanga arms and stay squared by keeping your shoulders in line with your elbows. Walk your inside shoulder under your front bent thigh so your thigh is high on your tricep. Hinge your body forward and lift your front foot off the ground, gaze forward. Continue hugging your arm with your thigh and pull your heel under and up towards your glutes. Float your back extended leg off the floor.",
+            "Benefits":"Strengthens arms, legs, core and wrists. Improves balance.",
+            "url_img":"https://pocketyoga.com/assets/images/full/flying_lizard_L.png"
+        },
+        {
+            "pose_name":"Himalayan Duck",
+            "sanskrit_name":"Karandavasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"Come into your Lotus. Shift your weight forward onto your knees and ground your forearms shoulder width apart, fingers spread wide. Engage your core and press your forearms into the ground to lift off. Bring your knees upward to the back of your arms. Keep rounding your upper back and press your spine upward to stay engaged.",
+            "Benefits":"Strengthens core, arms, and shoulders. Improves flexibility of hips, knees and ankles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/duck.png"
+        },
+        {
+            "pose_name":"Plow",
+            "sanskrit_name":"Halasana",
+            "Category":"Arm Balance And Inversion / Forward Bend",
+            "Difficulty":"Intermediate",
+            "Description":"From a supine position, the upper back rests on the earth with the hips and legs revolved back over the torso above and beyond the head toward the earth. The torso is perpendicular to the earth. The legs are fully extended with no bend at the knees as the toes reach for the earth. The hands are either supporting the lower back or extended behind the back on the earth with extended elbows and fingers interlaced (as flexibility allows), opening the shoulders. The neck is straight. The chin tucked. Do not look to the side as this may injure the neck. The is gaze inward.",
+            "Benefits":"Calms the brain. Stimulates the abdominal organs and the thyroid glands. Stretches the shoulders and spine. Helps relieve the symptoms of menopause. Reduces stress and fatigue. Therapeutic for backache, headache, infertility, insomnia, and sinusitis.",
+            "url_img":"https://pocketyoga.com/assets/images/full/plow.png"
+        },
+        {
+            "pose_name":"Rooster",
+            "sanskrit_name":"Kukkutasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"Come into your Lotus. Shift your hips back slightly and thread your hands and arms through your Lotus legs between your thighs and calves. Place your hands firmly on the ground with your fingers spread wide. Shift forward, engage your core, and straighten your arms to lift off.",
+            "Benefits":"Strengthens core, arms, shoulders, elbows and wrists. Improves flexibility of hips, knees and ankles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/rooster.png"
+        },
+        {
+            "pose_name":"Scale",
+            "sanskrit_name":"Tolasana",
+            "Category":"Arm Balance And Inversion / Neutral",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in Lotus and place your palms on the floor beside your hips. Spread your fingers wide and push your hands against the floor, contract your abdominal muscles, and lift your legs and glutes away from the floor.",
+            "Benefits":"Strengthens the wrists, arms, and abdominal muscles.",
+            "url_img":"https://pocketyoga.com/assets/images/full/lotus_elevated.png"
+        },
+        {
+            "pose_name":"Scorpion",
+            "sanskrit_name":"Vrischikasana A",
+            "Category":"Arm Balance And Inversion / Backbend",
+            "Difficulty":"Advanced",
+            "Description":"From Forearm Balance the knees are bent and the feet are lowered toward the head as the crown of the head lifts and the upper thoracic reaches through to the front. To maintain balance the ribs move back and shoulders lower back and away from the ears as the forearms and palms push into the earth. The knees may separate, but keep the toes together. The gaze is forward or up depending on your flexibility.",
+            "Benefits":"Strengthens the shoulders, arms, abdominals and back. Stretches the spine, hips and neck. Improves balance and focus.",
+            "url_img":"https://pocketyoga.com/assets/images/full/scorpion.png"
+        },
+        {
+            "pose_name":"Shoulder Pressing",
+            "sanskrit_name":"Bhujapidasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"Come into Garland pose. Take your arms through your legs and place your palms flat on the floor behind your ankles. You may need to slightly lift up your hips to get there. Fingers face forward. Work your upper arm as high up under your knees as possible. Bend your elbows to create a shelf. Hinge forward onto your palms until your feet begin to lift off. Press firmly into the earth as you play with lifting one foot, then the other. If available, lift both feet and cross your ankles.",
+            "Benefits":"Strengthens the arms and wrists. Stretches the upper back. Strengthens the abdominal muscles and hip flexors. Opens hips.",
+            "url_img":"https://pocketyoga.com/assets/images/full/scale_forward.png"
+        },
+        {
+            "pose_name":"Shoulder Stand with Lotus Legs",
+            "sanskrit_name":"Urdhva Padmasana ",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Advanced",
+            "Description":"From your Supported Shoulder Stand, with or without using your hands, begin to take your Lotus legs in the sky. Bend one knee and bring your ankle into the crease of your opposite hip and then repeat on the other side. Your hands can either support your lower back or be extended up by your side body in matchstick or touching your knees.",
+            "Benefits":"Opens the hips, groin and stretches the knees, ankles and thighs. Tones the legs and buttocks.",
+            "url_img":"https://pocketyoga.com/assets/images/full/shoulderstand_lotus.png"
+        },
+        {
+            "pose_name":"Supine Angle",
+            "sanskrit_name":"Supta Konasana",
+            "Category":"Arm Balance And Inversion / Forward Bend",
+            "Difficulty":"Intermediate",
+            "Description":"Begin in a Plow with your hands supporting your hips. With your hips still high, curl your toes under and begin to tip toe your feet apart wider. If you feel strong enough, release your hands from your hips and reach for your toes.",
+            "Benefits":"Stretches the shoulders and spine.",
+            "url_img":"https://pocketyoga.com/assets/images/full/supine_angle.png"
+        },{
+            "pose_name":"Supported Shoulder Stand",
+            "sanskrit_name":"Salamba Sarvangasana",
+            "Category":"Arm Balance And Inversion / Balancing",
+            "Difficulty":"Intermediate",
+            "Description":"From a supine position, the upper back is resting on the earth with the hips straight up toward the sky. The torso is perpendicular to the earth. The legs are fully extended and the toes are active. The hands are either supporting the lower back or extended up by the side body in matchstick. The weight rests on the center of the back of your skull and the neck maintains its natural curvature. The chest reaches towards the chin and the gaze is inward or towards the toes.",
+            "Benefits":"Calms the brain and helps relieve stress and mild depression. Stimulates the thyroid and prostate glands and abdominal organs. Stretches the shoulders and neck. Tones the legs and buttocks. Improves digestion. Helps relieve the symptoms of menopause. Reduces fatigue and alleviates insomnia. Therapeutic for asthma, infertility, and sinusitis.",
+            "url_img":"https://pocketyoga.com/assets/images/full/shoulderstand_supported.png"
+        }
+    ]
+}

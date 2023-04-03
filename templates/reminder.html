@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    h1 {
+    color: #333;
+    text-align: center;
+}
+
+form {
+    width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    margin-left: initial;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+button[type="submit"] {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+  </style>
+<head>
+    <title>Reminder Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='indexcss.css') }}">
+    <!-- <title>Yoga Website</title> -->
+    <!-- <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='reminderstyle.css') }}"> -->
+</head>
+<body>
+  <header class="main-header">
+      <div class="header-nav">
+          <a href="#" class="logo link">YOGA</a>
+          <nav class="main-nav">
+              <ul class="nav-list">
+                <li class="nav-item">
+                    <a href="/home" class="nav-link link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/reminders" class="nav-link link">Reminders</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="/poses" class="nav-link link">Poses</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/suggestedroutines" class="nav-link link">RoutinesToDo</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/recomendations" class="nav-link link">ML Recomendations</a>
+                </li>
+                <!-- <li class="nav-item">
+                    <a href="#" class="nav-link link">Blogs</a>
+                </li> -->
+                <li class="nav-item">
+                    <a href="/triedbyyou" class="nav-link link">Yours Stuff</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/logout" class="nav-link link">logout</i></a>
+                </li>
+              </ul>
+          </nav>
+      </div>
+  <!-- </header> -->
+  <div>
+    <form method="post" action="/reminders">
+        <h1>Create a Reminder</h1>
+        <label for="title">Title:</label><br>
+        <input type="text" id="title" name="title"><br>
+        <label for="description">Description:</label><br>
+        <textarea id="description" name="description"></textarea><br>
+        <label for="date">Date:</label><br>
+        <input type="date" id="date" name="date"><br>
+        <label for="time">Time:</label><br>
+        <input type="time" id="time" name="time"><br>
+        <button type="submit">Add Reminder</button>
+    </form>
+    </div>
+  </header>
+    <h1>My Reminders</h1>
+    <ul>
+        {% for reminder in reminders %}
+        <li>{{ reminder.title }} - {{ reminder.description }} - {{ reminder.date }} - {{ reminder.time }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
+
+
+
+
+

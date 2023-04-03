@@ -1,0 +1,61 @@
+importing the required libraries
+- gensim
+- pandas, numpy
+- nltk
+- tensorflow
+- keras
+
+Removing the stop words
+- finding stop words using nltk 
+- removing stop words using gensim
+#  1st step for removing stop words is to use the library and remove stop words, this will make 
+# sure that some basic stop words and numerical values is been removed from the Benefits column.
+
+# 2nd step is that there might be stop words present in upper case for example "This" is a stop words 
+# which was not removed in 1st step so I converted the Benefits column to lower case. Moreover we can only  
+# lowercase any sentence or entire column when that column is free of any numerical value.
+
+# 3rd then further removing stopwords, in this way we get the whole benefits column free from stop words
+- futher removing of special characters and tokenized each row of benefits
+
+Implemented Word2Vec with the following features:
+window size = 5
+minimum word count for which the model can input row wise data = 2
+required cpu threads to train the model = 4
+
+Word2vec - python uses this for word embedding
+word embeding is a language modeling technique used for mapping words to vectors of real number.
+TO know more about word2vec - https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/
+
+creating a model with the word2vec
+build vocabulary of unique words present in the entire benefit column
+train the model and test the model
+#when we find the similar words for a disease in 
+#Benefits section we also see that we get the names of asanas also.
+#like for this word we get similar words like chakrasana, marjariasana, shalabhasana which indicates
+#that since we have taken these words from benefits section, it means that for this particular diseaes
+#most prpbable asanas can be chakrasana, marjariasana, shalabhasana etc.  to cure it.
+Created an empty dictionary at first to store the unique words as key words along with its vector embeddings.
+Exporting dictionary data into separate excel sheet/ csv file.
+We have made list of unique asanas as after merging excel sheets there were repeated asanas
+
+On-hot Encoded the asanas words and created a dictionary to store the asana word with its word embedding
+Created a Tupple associating the benefits words of each row with the respective asana. In order to bring the associativity between benefits words and asana words
+
+Implemented Artificial Neural Network. with the help of tensorfow's keras functional API with the following features:
+Number of input layer = 1
+Size of input layer = 50 unit
+Number of dense layer = 1
+size of dense layer = 1000 units
+Number of output layer = 1
+size of output unit = 293
+activation function = softmax
+loss = categorical_crossentropy
+optimizer = adam
+number of epotchs = 100
+
+created a model using keras and fit a model to the data 
+Function which inputs the user details and suggests user with the most recommended asanas
+
+
+

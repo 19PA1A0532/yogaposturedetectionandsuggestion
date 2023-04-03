@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='indexcss.css') }}">
+    <title>Yoga Website</title>
+    <script>
+        function selectOption() {
+          var selectElement = document.getElementById("mySelect");
+          var selectedOption = selectElement.options[selectElement.selectedIndex].value;
+          if (selectedOption) {
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', '/select1');
+            xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+            xhr.onload = function() {
+              if (xhr.status === 200) {
+                window.location.href = xhr.responseURL;
+              }
+            };
+            xhr.send('option=' + encodeURIComponent(selectedOption));
+          }
+        }
+      </script>
+</head>
+<body>
+    <header class="main-header">
+        <div class="header-nav">
+            <a href="#" class="logo link">YOGA</a>
+            <nav class="main-nav">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="/home" class="nav-link link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/reminders" class="nav-link link">Reminders</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a href="/poses" class="nav-link link">Poses</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/suggestedroutines" class="nav-link link">RoutinesToDo</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/recomendations" class="nav-link link">ML Recomendations</a>
+                    </li>
+                    <!-- <li class="nav-item">
+                        <a href="#" class="nav-link link">Blogs</a>
+                    </li> -->
+                    <li class="nav-item">
+                        <a href="/triedbyyou" class="nav-link link">Yours Stuff</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/logout" class="nav-link link">logout</i></a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div>
+            <button class="hero-cta link" onclick="redirectTo('/begnningposes')" id="button1">Begining Poses</button><br>
+            <button class="hero-cta link" onclick="redirectTo('/warmup')" id="button2">Warmup Poses</button><br>
+            <button class="hero-cta link" onclick="redirectTo('/morningstretch')" id="button2">Morning Stretch</button><br>
+            <button class="hero-cta link" onclick="redirectTo('/restwithbalanceitout')" id="button2">Twist And Balance It Out</button><br>
+            <button class="hero-cta link" onclick="redirectTo('/nightpractice')" id="button2">Night Practice</button><br>
+            <!-- <button class="hero-cta link" onclick="redirectTo('/armbalanceinversion')" id="button2">Arm Balance Inversion</button><br> -->
+        </div>
+    </header>
+	<!-- Select element and buttons -->
+    <script>
+        function redirectTo(path) {
+            window.location.href = path;
+        }
+    </script>
+</body>
+</html>

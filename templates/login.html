@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='indexcss.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header class="main-header">
+        <div class="header-nav">
+            <a href="#" class="logo link">YOGA</a>
+            <nav class="main-nav">
+                <ul class="nav-list">
+                    <ul class="nav-list">
+                        <li class="nav-item">
+                            <a href="/home" class="nav-link link">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link link">About us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link link">Contact us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/login" class="nav-link link">Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/signup" class="nav-link link">signup</a>
+                        </li>
+                    </ul>
+            </nav>
+        </div>
+    <!-- </header> -->
+    <div>
+    <br><br>
+    <form method="POST" action="/login">
+        <h1>Login</h1>
+        <label>Username:</label>
+        <input type="text" name="username">
+        <br>
+        <label>Password:</label>
+        <input type="password" name="password">
+        <br>
+        <input type="submit" value="Login">
+        <a href="/signup">Sign up</a>
+    </form>
+    </div>
+    </header>
+</body>
+</html>

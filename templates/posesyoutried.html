@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<style>
+    .container{
+        display: flex;
+        width: 100%;
+        border: 1px solid black;
+        /* flex-direction: row-reverse; */
+        align-items: center;
+        /* text-align: center; */
+        justify-content: center;
+        background-color: black;
+        color: white;
+    }
+    .left{
+        width: 25%;
+    }
+    .right{
+        width: 25%;
+    }
+    .extral{
+        width:25%;
+    }
+    .extrar{
+        width:25%;
+    }
+</style>
+<html>
+    <head>
+        <title>Poses you tried</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='freetrailcss.css') }}">
+    </head>
+    <body>
+        <header class="main-header">
+            <div class="header-nav">
+                <a href="#" class="logo link">YOGA</a>
+                <nav class="main-nav">
+                    <ul class="nav-list">
+                        <li class="nav-item">
+                            <a href="/home" class="nav-link link">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/reminders" class="nav-link link">Reminders</a>
+                        </li>
+                        
+                        <li class="nav-item">
+                            <a href="/poses" class="nav-link link">Poses</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/suggestedroutines" class="nav-link link">RoutinesToDo</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/recomendations" class="nav-link link">ML Recomendations</a>
+                        </li>
+                        <!-- <li class="nav-item">
+                            <a href="#" class="nav-link link">Blogs</a>
+                        </li> -->
+                        <li class="nav-item">
+                            <a href="/triedbyyou" class="nav-link link">Yours Stuff</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/logout" class="nav-link link">logout</i></a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <div>
+            {% for url in url_list %}
+            <!-- <a href="#" class="image-link" > -->
+                <div class="container">
+                    <!-- <div class="extral"></div> -->
+                    <div class="left">
+                        <img id="dynamic-image" style="width:250px;height: 250px;" src="{{ url_for('static', filename=url['img']) }}" alt="img" onerror="this.src='';">
+                    </div>
+                    <div class="right">
+                        <p>pose_name:{{url['english_name']}}</p>
+                        <p>Benefits:{{url['pose_benefits']}}</p>
+                    </div>
+                    <!-- <div class="extrar"></div> -->
+                </div>
+                <!-- <p>description:{{url['pose_description']}}</p> -->
+                <!-- <p>{{url['english_name']}}</p> -->
+            <!-- </a> -->
+            {% endfor %}
+        </div>
+    </body>
+</html>

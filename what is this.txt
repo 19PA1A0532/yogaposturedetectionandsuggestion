@@ -1,0 +1,15 @@
+Home : page that you gave 
+Reminders : It will give a reminder if you are setting any reminder with the tile discription date and time
+It pops up the reminder when you login 
+yours stuff : The user previously done poses pictures displayed
+login : general login with the details stored in mongo db
+logout : general logout
+Try free:
+	Regular Asanas - arround 4-5 asanasas displayed one after the other with discription and when click on the image 
+				the cam opens and it detects the errors
+	Weight Loss - same as above 5-6 poses
+	Physical Fittness - same as above 5-6 poses
+	select Level:
+		Beginners same as above 10-15poses
+		intermediate same as above 10-15poses
+		experts same as above 10-15poses
