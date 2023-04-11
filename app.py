@@ -444,7 +444,7 @@ print(seconds)
 @app.route('/video_feed')
 def video_feed():
     image_path = request.args.get('image_path')
-    path = r'D:\VIT[college work]\4-2mainproject\yogaposturedetection\static\{}'.format(image_path)
+    path = os.path.join('static', image_path)
     print(path)
     if(session):   
         print(path)
@@ -476,7 +476,7 @@ def video_feed():
 @app.route('/video_feedx')
 def video_feedx():
     image_path = request.args.get('image_path')
-    path = r'D:\VIT[college work]\4-2mainproject\yogaposturedetection\static\yoga_poses\{}'.format(image_path)
+    path = os.path.join('static','yoga_poses', image_path)
     # print(path)
     datas = image_path.split('.')
     data = datas[0]
@@ -525,11 +525,11 @@ import pandas as pd
 import gensim
 import numpy as np
 import pickle
-
-model = gensim.models.Word2Vec.load(r'D:\VIT[college work]\4-2mainproject\yogaposturedetection\model.bin')
+import os
+model = gensim.models.Word2Vec.load('model.bin')
 
 # Load the SVM model
-model1 = pickle.load(open(r'D:\VIT[college work]\4-2mainproject\yogaposturedetection\Yoga-Asana-Recommendation-Model-main\savemodel.sav', "rb"))
+model1 = pickle.load(open(os.path.join('Yoga-Asana-Recommendation-Model-main', 'savemodel.sav'), "rb"))
 
 # Get the list of unique words in the vocabulary
 words = list(model.wv.key_to_index.keys())
@@ -613,7 +613,9 @@ def get_recomendations():
 @app.route('/video_feedy')
 def video_feedy():
     image_path = request.args.get('image_path')
-    path = r'D:\VIT[college work]\4-2mainproject\yogaposturedetection\static\images\images{}_3.jpg'.format(image_path)
+    xpath = 'images'+image_path+'_3.jpg'
+    # path = r'D:\VIT[college work]\4-2mainproject\yogaposturedetection\static\images\images{}_3.jpg'.format(image_path)
+    path = os.path.join('static','images', xpath)
     print(path)
     data = 'images/images'+image_path+'_3.jpg'
     # print(data)
